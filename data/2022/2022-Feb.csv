@@ -1,26 +1,26 @@
-Article Class,Article Titles,List of Article Author Names
-Editorial,Introduction to the special issue on artificial intelligence in musculoskeletal radiology,Connie Y. ChangThomas M. Link
-Perspective,Clinical applications of AI in MSK imaging: a liability perspective,H. Benjamin HarveyVrushab Gowda
-Review Article,"Artificial intelligence in musculoskeletal imaging: a perspective on value propositions, clinical use, and obstacles",Jan FritzRichard KijowskiMichael P. Recht
-Review Article,Artificial intelligence applied to musculoskeletal oncology: a systematic review,Matthew D. LiSyed Rakin AhmedConnie Y. Chang
-Review Article,Musculoskeletal trauma and artificial intelligence: current trends and projections,Olga LaurBenjamin Wang
-Review Article,Deciphering musculoskeletal artificial intelligence for clinical applications: how do I get started?,Simukayi MutasaPaul H. Yi
-Review Article,AI MSK clinical applications: spine imaging,Florian A. HuberRoman Guggenberger
-Review Article,AI musculoskeletal clinical applications: how can AI increase my day-to-day efficiency?,YiRang ShinSungjun KimYoung Han Lee
-Review Article,AI MSK clinical applications: orthopedic implants,Paul H. YiSimukayi MutasaJan Fritz
-Review Article,Artificial intelligence for MRI diagnosis of joints: a scoping review of the current state-of-the-art of deep learning-based approaches,Benjamin FritzJan Fritz
-Review Article,AI MSK clinical applications: cartilage and osteoarthritis,Gabby B. JosephCharles E. McCullochThomas M. Link
-Scientific Article,Deep learning detection of subtle fractures using staged algorithms to mimic radiologist search pattern,Mark RenPaul H. Yi
-Scientific Article,Deep learning for accurately recognizing common causes of shoulder pain on radiographs,Nils F. GrauhanStefan M. NiehuesKeno K. Bressem
-Scientific Article,Deep learning approach to predict pain progression in knee osteoarthritis,Bochen GuanFang LiuRichard Kijowski
-Scientific Article,Natural language processing of radiology reports to investigate the effects of the COVID-19 pandemic on the incidence and age distribution of fractures,Florian JungmannB. KämpgenR. Kloeckner
-Scientific Article,A deep learning approach to automatically quantify lower extremity alignment in children,Andy Tsai
-Scientific Article,Automated detection and segmentation of sclerotic spinal lesions on body CTs using a deep convolutional neural network,Connie Y. ChangColleen BucklessMartin Torriani
-Scientific Article,Can AI distinguish a bone radiograph from photos of flowers or cars? Evaluation of bone age deep learning model on inappropriate data inputs,Paul H. YiAnirudh ArunJan Fritz
-Scientific Article,Artificial intelligence in orthopedic implant model classification: a systematic review,Mark RenPaul H. Yi
-Scientific Article,Predicting long-term outcomes of ultrasound-guided percutaneous irrigation of calcific tendinopathy with the use of machine learning,Evangelia E. VassalouMichail E. KlontzasApostolos H. Karantanas
-Scientific Article,Your mileage may vary: impact of data input method for a deep learning bone age app’s predictions,Paul H. YiAlice C. YuHaris I. Sair
-Test Yourself: Question,Test Yourself-Question: Multiple facial skin lesions associated with gingival hypertrophy in a pair of siblings,Nour MarrounDiane FranckGrammatina Boitsios
-Case Report,"Pachydermodactyly: the role of ultrasonography, superb microvascular imaging, and elastography in diagnosis",Cláudia Martins NovaisLuís Soares-de-AlmeidaJoão Madruga Dias
-Case Report,Mammary-type myofibroblastoma of the thigh mimicking liposarcoma,Natasha AkhlaqBibianna PurginaZaid Jibri
-Test Yourself: Answer,Test yourself-answer: multiple facial skin lesions associated with gingival hypertrophy in a pair of siblings,Nour MarrounDiane FranckGrammatina Boitsios
+Date,Article Class,Article Titles,List of Article Author Names
+2022-Feb,Editorial,Introduction to the special issue on artificial intelligence in musculoskeletal radiology,Connie Y. ChangThomas M. Link
+2022-Feb,Perspective,Clinical applications of AI in MSK imaging: a liability perspective,H. Benjamin HarveyVrushab Gowda
+2022-Feb,Review Article,"Artificial intelligence in musculoskeletal imaging: a perspective on value propositions, clinical use, and obstacles",Jan FritzRichard KijowskiMichael P. Recht
+2022-Feb,Review Article,Artificial intelligence applied to musculoskeletal oncology: a systematic review,Matthew D. LiSyed Rakin AhmedConnie Y. Chang
+2022-Feb,Review Article,Musculoskeletal trauma and artificial intelligence: current trends and projections,Olga LaurBenjamin Wang
+2022-Feb,Review Article,Deciphering musculoskeletal artificial intelligence for clinical applications: how do I get started?,Simukayi MutasaPaul H. Yi
+2022-Feb,Review Article,AI MSK clinical applications: spine imaging,Florian A. HuberRoman Guggenberger
+2022-Feb,Review Article,AI musculoskeletal clinical applications: how can AI increase my day-to-day efficiency?,YiRang ShinSungjun KimYoung Han Lee
+2022-Feb,Review Article,AI MSK clinical applications: orthopedic implants,Paul H. YiSimukayi MutasaJan Fritz
+2022-Feb,Review Article,Artificial intelligence for MRI diagnosis of joints: a scoping review of the current state-of-the-art of deep learning-based approaches,Benjamin FritzJan Fritz
+2022-Feb,Review Article,AI MSK clinical applications: cartilage and osteoarthritis,Gabby B. JosephCharles E. McCullochThomas M. Link
+2022-Feb,Scientific Article,Deep learning detection of subtle fractures using staged algorithms to mimic radiologist search pattern,Mark RenPaul H. Yi
+2022-Feb,Scientific Article,Deep learning for accurately recognizing common causes of shoulder pain on radiographs,Nils F. GrauhanStefan M. NiehuesKeno K. Bressem
+2022-Feb,Scientific Article,Deep learning approach to predict pain progression in knee osteoarthritis,Bochen GuanFang LiuRichard Kijowski
+2022-Feb,Scientific Article,Natural language processing of radiology reports to investigate the effects of the COVID-19 pandemic on the incidence and age distribution of fractures,Florian JungmannB. KämpgenR. Kloeckner
+2022-Feb,Scientific Article,A deep learning approach to automatically quantify lower extremity alignment in children,Andy Tsai
+2022-Feb,Scientific Article,Automated detection and segmentation of sclerotic spinal lesions on body CTs using a deep convolutional neural network,Connie Y. ChangColleen BucklessMartin Torriani
+2022-Feb,Scientific Article,Can AI distinguish a bone radiograph from photos of flowers or cars? Evaluation of bone age deep learning model on inappropriate data inputs,Paul H. YiAnirudh ArunJan Fritz
+2022-Feb,Scientific Article,Artificial intelligence in orthopedic implant model classification: a systematic review,Mark RenPaul H. Yi
+2022-Feb,Scientific Article,Predicting long-term outcomes of ultrasound-guided percutaneous irrigation of calcific tendinopathy with the use of machine learning,Evangelia E. VassalouMichail E. KlontzasApostolos H. Karantanas
+2022-Feb,Scientific Article,Your mileage may vary: impact of data input method for a deep learning bone age app’s predictions,Paul H. YiAlice C. YuHaris I. Sair
+2022-Feb,Test Yourself: Question,Test Yourself-Question: Multiple facial skin lesions associated with gingival hypertrophy in a pair of siblings,Nour MarrounDiane FranckGrammatina Boitsios
+2022-Feb,Case Report,"Pachydermodactyly: the role of ultrasonography, superb microvascular imaging, and elastography in diagnosis",Cláudia Martins NovaisLuís Soares-de-AlmeidaJoão Madruga Dias
+2022-Feb,Case Report,Mammary-type myofibroblastoma of the thigh mimicking liposarcoma,Natasha AkhlaqBibianna PurginaZaid Jibri
+2022-Feb,Test Yourself: Answer,Test yourself-answer: multiple facial skin lesions associated with gingival hypertrophy in a pair of siblings,Nour MarrounDiane FranckGrammatina Boitsios

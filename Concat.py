@@ -4,7 +4,7 @@ from os import listdir
 import glob
 
 cwd_original = os.getcwd()
-path = cwd_original + '/data/2022/'
+path = cwd_original + '/data/2018/'
 dir_list = os.listdir(path)
 
 print(dir_list)
@@ -23,11 +23,11 @@ for file in dir_list:
     
 new_dir_list= [f"{path}" + s for s in dir_list]
 
-df2022  = pandas.concat([pandas.read_csv(f) for f in new_dir_list ])
-months_order = ['2022-Jan', '2022-Feb', '2022-Mar', '2022-Apr', '2022-May', '2022-Jun', 
-          '2022-Jul', '2022-Aug', '2022-Sep', '2022-Oct', '2022-Nov', '2022-Dec']
-df2022.sort_values(by="Date", key=lambda column: column.map(lambda e: months_order.index(e)), inplace=True)
-df2022 = df2022.loc[:, ~df2022.columns.str.contains('^Unnamed')]
+df2018  = pandas.concat([pandas.read_csv(f) for f in new_dir_list ])
+months_order = ['2018-Jan', '2018-Feb', '2018-Mar', '2018-Apr', '2018-May', '2018-Jun', 
+          '2018-Jul', '2018-Aug', '2018-Sep', '2018-Oct', '2018-Nov', '2018-Dec']
+df2018.sort_values(by="Date", key=lambda column: column.map(lambda e: months_order.index(e)), inplace=True)
+df2018 = df2018.loc[:, ~df2018.columns.str.contains('^Unnamed')]
 path2 = cwd_original + '/final/'
-df2022.to_csv(path2 + '2022.csv', index=False)
+df2018.to_csv(path2 + '2018.csv', index=False)
 

@@ -1,20 +1,20 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2018-Jul,Perspective,Incorporation of musculoskeletal ultrasound training into the radiology core curriculum,Netanel S. BerkoJenna N. LeMordecai Koenigsberg
-2018-Jul,Review Article,Post-operative extra-spinal etiologies of sciatic nerve impingement,Jonathan A. FlugAlissa BurgeJohn A. Carrino
-2018-Jul,Review Article,Multimodality imaging of subacromial impingement syndrome,Lionel PesquerSophie BorgholPierre Abadie
-2018-Jul,Scientific Article,Is a single-level measurement of paraspinal muscle fat infiltration and cross-sectional area representative of the entire lumbar spine?,Julio UrrutiaPablo BesaSergio Uribe
-2018-Jul,Scientific Article,Texture analysis of paraspinal musculature in MRI of the lumbar spine: analysis of the lumbar stenosis outcome study (LSOS) data,Manoj MannilJakob M. BurgstallerRoman Guggenberger
-2018-Jul,Scientific Article,"Lumbar paraspinal muscle fat infiltration is independently associated with sex, age, and inter-vertebral disc degeneration in symptomatic patients",Julio UrrutiaPablo BesaSergio Uribe
-2018-Jul,Scientific Article,Hand MRI and the Greulich-Pyle atlas in skeletal age estimation in adolescents,Azadeh HojrehJutta GamperIris-Melanie Noebauer-Huhmann
-2018-Jul,Scientific Article,Feasibility of using an inversion-recovery ultrashort echo time (UTE) sequence for quantification of glenoid bone loss,Ya-jun MaJustin WestEric Y. Chang
-2018-Jul,Scientific Article,Prevalence of vitamin D insufficiency in radiologists: a cross-sectional study,Christoph Amadeus AgtenLukas MargaroliChristian W.A. Pfirrmann
-2018-Jul,Technical Report,MRI sport-specific pulley imaging,Michael N. HoffTodd D. Greenberg
-2018-Jul,Test Yourself: Question,Abnormal alignment of the left lower extremity and irregular gait,Pamela WalshLynne PinkneyMohammad Samim
-2018-Jul,Case Report,Anaplastic plasmacytoma: a rare tumor presenting as a pathological fracture in a younger adult,Robert W. MorrisVarsha KumarAli G. Saad
-2018-Jul,Case Report,Bladder cancer presenting with acrometastases: a different cause of foot pain,João MatosIlaria MussettoNicoletta Gandolfo
-2018-Jul,Case Report,Interposition of the transverse ligament of the knee into a fracture of the tibial plateau: a case report,Kazimierz T. SzopinskiPawel Adamczyk
-2018-Jul,Case Report,Multicentric carpotarsal osteolysis syndrome: long-term follow-up of three patients,Céline KleinJonathan BellityStéphanie Pannier
-2018-Jul,Case Report,Superficial acral fibromyxoma: a case report with radiological review,Shirly LeeMichael Austin Ross Reid
-2018-Jul,Case Report,Epiphyseal hyperplasia caused by an ectopic ossification center of the distal tibia: presentation of a pediatric case with 13 years of radiological surveillance,Susanne ScheiplStefan TauberGerhard Ranner
-2018-Jul,Test Yourself: Answer,Abnormal alignment of the left lower extremity and irregular gait,Pamela WalshLynne PinkneyMohammad Samim
-2018-Jul,Browser's Notes,Browser’s Notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2018-Jul,Perspective,Incorporation of musculoskeletal ultrasound training into the radiology core curriculum,"Netanel S. Berko,Jenna N. Le,Mordecai Koenigsberg",Netanel S. Berko,Mordecai Koenigsberg
+2018-Jul,Review Article,Post-operative extra-spinal etiologies of sciatic nerve impingement,"Jonathan A. Flug,Alissa Burge,John A. Carrino",Jonathan A. Flug,John A. Carrino
+2018-Jul,Review Article,Multimodality imaging of subacromial impingement syndrome,"Lionel Pesquer,Sophie Borghol,Pierre Abadie",Lionel Pesquer,Pierre Abadie
+2018-Jul,Scientific Article,Is a single-level measurement of paraspinal muscle fat infiltration and cross-sectional area representative of the entire lumbar spine?,"Julio Urrutia,Pablo Besa,Sergio Uribe",Julio Urrutia,Sergio Uribe
+2018-Jul,Scientific Article,Texture analysis of paraspinal musculature in MRI of the lumbar spine: analysis of the lumbar stenosis outcome study (LSOS) data,"Manoj Mannil,Jakob M. Burgstaller,Roman Guggenberger",Manoj Mannil,Roman Guggenberger
+2018-Jul,Scientific Article,"Lumbar paraspinal muscle fat infiltration is independently associated with sex, age, and inter-vertebral disc degeneration in symptomatic patients","Julio Urrutia,Pablo Besa,Sergio Uribe",Julio Urrutia,Sergio Uribe
+2018-Jul,Scientific Article,Hand MRI and the Greulich-Pyle atlas in skeletal age estimation in adolescents,"Azadeh Hojreh,Jutta Gamper,Iris-Melanie Noebauer-Huhmann",Azadeh Hojreh,Iris-Melanie Noebauer-Huhmann
+2018-Jul,Scientific Article,Feasibility of using an inversion-recovery ultrashort echo time (UTE) sequence for quantification of glenoid bone loss,"Ya-jun Ma,Justin West,Eric Y. Chang",Ya-jun Ma,Eric Y. Chang
+2018-Jul,Scientific Article,Prevalence of vitamin D insufficiency in radiologists: a cross-sectional study,"Christoph Amadeus Agten,Lukas Margaroli,Christian W.A. Pfirrmann",Christoph Amadeus Agten,Christian W.A. Pfirrmann
+2018-Jul,Technical Report,MRI sport-specific pulley imaging,"Michael N. Hoff,Todd D. Greenberg",Michael N. Hoff,Todd D. Greenberg
+2018-Jul,Test Yourself: Question,Abnormal alignment of the left lower extremity and irregular gait,"Pamela Walsh,Lynne Pinkney,Mohammad Samim",Pamela Walsh,Mohammad Samim
+2018-Jul,Case Report,Anaplastic plasmacytoma: a rare tumor presenting as a pathological fracture in a younger adult,"Robert W. Morris,Varsha Kumar,Ali G. Saad",Robert W. Morris,Ali G. Saad
+2018-Jul,Case Report,Bladder cancer presenting with acrometastases: a different cause of foot pain,"João Matos,Ilaria Mussetto,Nicoletta Gandolfo",João Matos,Nicoletta Gandolfo
+2018-Jul,Case Report,Interposition of the transverse ligament of the knee into a fracture of the tibial plateau: a case report,"Kazimierz T. Szopinski,Pawel Adamczyk",Kazimierz T. Szopinski,Pawel Adamczyk
+2018-Jul,Case Report,Multicentric carpotarsal osteolysis syndrome: long-term follow-up of three patients,"Céline Klein,Jonathan Bellity,Stéphanie Pannier",Céline Klein,Stéphanie Pannier
+2018-Jul,Case Report,Superficial acral fibromyxoma: a case report with radiological review,"Shirly Lee,Michael Austin Ross Reid",Shirly Lee,Michael Austin Ross Reid
+2018-Jul,Case Report,Epiphyseal hyperplasia caused by an ectopic ossification center of the distal tibia: presentation of a pediatric case with 13 years of radiological surveillance,"Susanne Scheipl,Stefan Tauber,Gerhard Ranner",Susanne Scheipl,Gerhard Ranner
+2018-Jul,Test Yourself: Answer,Abnormal alignment of the left lower extremity and irregular gait,"Pamela Walsh,Lynne Pinkney,Mohammad Samim",Pamela Walsh,Mohammad Samim
+2018-Jul,Browser's Notes,Browser’s Notes,,,

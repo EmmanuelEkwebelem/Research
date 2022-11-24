@@ -1,31 +1,31 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2021-Jan,Review Article,Image-guided botulinum toxin injection in the lateral abdominal wall prior to abdominal wall reconstruction surgery: review of techniques and results,Eva B. DeerenbergSharbel A. ElhageRobert Lopez
-2021-Jan,Review Article,A review of imaging of surface sarcomas of bone,Kelly HarperPaul SathiadossAdnan Sheikh
-2021-Jan,Review Article,Soft tissue pathology for the radiologist: a tumor board primer with 2020 WHO classification update,Karin J. KuhnJeffrey M. CloutierGeoffrey Riley
-2021-Jan,Scientific Article,Diagnostic concordance between ultrasound-guided core needle biopsy and surgical resection specimens for histological grading of extremity and trunk soft tissue sarcoma,A. TanR. RajakulasingamA. Saifuddin
-2021-Jan,Scientific Article,Benefits of iterative metal artifact reduction and dual-energy CT towards mitigating artifact in the setting of total shoulder prostheses,Payam MohammadinejadFrancis I. BaffourKatrina N. Glazebrook
-2021-Jan,Scientific Article,Perfusion in hand arthritis on dynamic contrast-enhanced computed tomography: a randomized prospective study using MRI as a standard of reference,Sevtap Tugce UlasKay Geert HermannTorsten Diekhoff
-2021-Jan,Scientific Article,Accurate prediction of lumbar microdecompression level with an automated MRI grading system,Brandon L. RollerRobert D. BoutinLeon Lenchik
-2021-Jan,Scientific Article,Marrow uptake on FDG PET/CT is associated with progression from smoldering to symptomatic multiple myeloma,Behrang AminiYves-Paul N. NakacheRobert D. Boutin
-2021-Jan,Scientific Article,MRI features of and factors related to ankle injuries in asymptomatic amateur marathon runners,Wanzhen YaoYanjing ZhangJianping Ding
-2021-Jan,Scientific Article,Kinematic MRI of ischiofemoral impingement,Joao R. T. VicentiniEdgar L. Martinez-SalazarMartin Torriani
-2021-Jan,Scientific Article,Ultrashort echo time (UTE) imaging reveals a shift in bound water that is sensitive to sub-clinical tendinopathy in older adults,Isaac F. LoegeringSarah C. DenningDarryl G. Thelen
-2021-Jan,Scientific Article,Percutaneous ultrasonic tenotomy with the TX-1 device versus surgical tenotomy for the treatment of common extensor tendinosis,Faysal AltahawiXin LiMichael C. Forney
-2021-Jan,Scientific Article,The value of chest and skeletal staging studies in conventional chondrosarcoma,Ines OliveiraNehal SinglaAsif Saifuddin
-2021-Jan,Scientific Article,Patients with ACL graft deficiency showed a higher frequency of knee osteoarthritis compared with patients with intact ACL graft in the medium term,Ozan AsmakutluDeniz AlisMujdat Bankaoglu
-2021-Jan,Scientific Article,Clinical evaluation of a new adaptive iterative metal artifact reduction method in whole-body low-dose CT skeletal survey examinations,Zaiyang LongChristin A. Tiegs-HeidenJoel G. Fletcher
-2021-Jan,Scientific Article,Accuracy of craniocervical measurements on CT for identifying partial or complete craniocervical ligament injuries in pediatric patients,Nicholas M. BeckmannSuresh K. CheekatlaO. Clark West
-2021-Jan,Scientific Article,"Characteristic MRI findings of shoulder, elbow, and wrist joints in wheelchair user",Masafumi SakaiTakahiro MutsuzakiKotaro Nakajima
-2021-Jan,Scientific Article,3D imaging for hindfoot alignment assessment: a comparative study between non-weight-bearing MRI and weight-bearing CT,Anil HaldarAlessio BernasconiAsif Saifuddin
-2021-Jan,Scientific Article,"Lateral femoral condyle insufficiency fractures: imaging findings, demographics, and analysis of outcomes",Terence P. FarrellDiane M. DeelyKristen E. McClure
-2021-Jan,Scientific Article,Imaging of non-neurogenic peripheral nerve malignancy—a case series and systematic review,Rodrigo LunaLaura M. FayadShivani Ahlawat
-2021-Jan,Scientific Article,Obese and overweight individuals have greater knee synovial inflammation and associated structural and cartilage compositional degeneration: data from the osteoarthritis initiative,Thanat KanthawangJannis BoddenThomas M. Link
-2021-Jan,Technical Report,Quantitative magnetic resonance imaging: differentiating soft tissue implants and fillers used in cosmetic and reconstructive surgery,Elodie NiasmeBenedicte M. A. DelattreSana Boudabbous
-2021-Jan,Test Yourself: Question,Test yourself question: right third toe swelling,Ramanan RajakulasingamD. LindsayA. Saifuddin
-2021-Jan,Test Yourself: Question,Paraspinal soft tissue masses in a patient with a metabolic bone disease,Aishwarya GulatiAchala DonuruMaansi Parekh
-2021-Jan,Case Report,Parosteal osteosarcoma associated with a low-grade component mimicking well-differentiated liposarcoma: a case report,P. SohierM. RodriguesF. Larousserie
-2021-Jan,Case Report,Traumatic myositis ossificans: multifocal lesions suggesting malignancy on FDG-PET/CT—a case report,Miho SasakiYuka HotokezakaShuichi Fujita
-2021-Jan,Case Report,Metastasizing chondroblastoma: a rare bone tumor no longer supported by the WHO classification,Daniel BaumhoerDorothee HarderAttila Kollar
-2021-Jan,Test Yourself: Answer,Right third toe swelling,Ramanan RajakulasingamDaniel LindsayAsif Saifuddin
-2021-Jan,Test Yourself: Answer,Paraspinal soft tissue masses in a patient with a metabolic bone disease,Aishwarya GulatiAchala DonuruMaansi Parekh
-2021-Jan,Browser's Notes,Browser's Notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2021-Jan,Review Article,Image-guided botulinum toxin injection in the lateral abdominal wall prior to abdominal wall reconstruction surgery: review of techniques and results,"Eva B. Deerenberg,Sharbel A. Elhage,Robert Lopez",Eva B. Deerenberg,Robert Lopez
+2021-Jan,Review Article,A review of imaging of surface sarcomas of bone,"Kelly Harper,Paul Sathiadoss,Adnan Sheikh",Kelly Harper,Adnan Sheikh
+2021-Jan,Review Article,Soft tissue pathology for the radiologist: a tumor board primer with 2020 WHO classification update,"Karin J. Kuhn,Jeffrey M. Cloutier,Geoffrey Riley",Karin J. Kuhn,Geoffrey Riley
+2021-Jan,Scientific Article,Diagnostic concordance between ultrasound-guided core needle biopsy and surgical resection specimens for histological grading of extremity and trunk soft tissue sarcoma,"A. Tan,R. Rajakulasingam,A. Saifuddin",A. Tan,A. Saifuddin
+2021-Jan,Scientific Article,Benefits of iterative metal artifact reduction and dual-energy CT towards mitigating artifact in the setting of total shoulder prostheses,"Payam Mohammadinejad,Francis I. Baffour,Katrina N. Glazebrook",Payam Mohammadinejad,Katrina N. Glazebrook
+2021-Jan,Scientific Article,Perfusion in hand arthritis on dynamic contrast-enhanced computed tomography: a randomized prospective study using MRI as a standard of reference,"Sevtap Tugce Ulas,Kay Geert Hermann,Torsten Diekhoff",Sevtap Tugce Ulas,Torsten Diekhoff
+2021-Jan,Scientific Article,Accurate prediction of lumbar microdecompression level with an automated MRI grading system,"Brandon L. Roller,Robert D. Boutin,Leon Lenchik",Brandon L. Roller,Leon Lenchik
+2021-Jan,Scientific Article,Marrow uptake on FDG PET/CT is associated with progression from smoldering to symptomatic multiple myeloma,"Behrang Amini,Yves-Paul N. Nakache,Robert D. Boutin",Behrang Amini,Robert D. Boutin
+2021-Jan,Scientific Article,MRI features of and factors related to ankle injuries in asymptomatic amateur marathon runners,"Wanzhen Yao,Yanjing Zhang,Jianping Ding",Wanzhen Yao,Jianping Ding
+2021-Jan,Scientific Article,Kinematic MRI of ischiofemoral impingement,"Joao R. T. Vicentini,Edgar L. Martinez-Salazar,Martin Torriani",Joao R. T. Vicentini,Martin Torriani
+2021-Jan,Scientific Article,Ultrashort echo time (UTE) imaging reveals a shift in bound water that is sensitive to sub-clinical tendinopathy in older adults,"Isaac F. Loegering,Sarah C. Denning,Darryl G. Thelen",Isaac F. Loegering,Darryl G. Thelen
+2021-Jan,Scientific Article,Percutaneous ultrasonic tenotomy with the TX-1 device versus surgical tenotomy for the treatment of common extensor tendinosis,"Faysal Altahawi,Xin Li,Michael C. Forney",Faysal Altahawi,Michael C. Forney
+2021-Jan,Scientific Article,The value of chest and skeletal staging studies in conventional chondrosarcoma,"Ines Oliveira,Nehal Singla,Asif Saifuddin",Ines Oliveira,Asif Saifuddin
+2021-Jan,Scientific Article,Patients with ACL graft deficiency showed a higher frequency of knee osteoarthritis compared with patients with intact ACL graft in the medium term,"Ozan Asmakutlu,Deniz Alis,Mujdat Bankaoglu",Ozan Asmakutlu,Mujdat Bankaoglu
+2021-Jan,Scientific Article,Clinical evaluation of a new adaptive iterative metal artifact reduction method in whole-body low-dose CT skeletal survey examinations,"Zaiyang Long,Christin A. Tiegs-Heiden,Joel G. Fletcher",Zaiyang Long,Joel G. Fletcher
+2021-Jan,Scientific Article,Accuracy of craniocervical measurements on CT for identifying partial or complete craniocervical ligament injuries in pediatric patients,"Nicholas M. Beckmann,Suresh K. Cheekatla,O. Clark West",Nicholas M. Beckmann,O. Clark West
+2021-Jan,Scientific Article,"Characteristic MRI findings of shoulder, elbow, and wrist joints in wheelchair user","Masafumi Sakai,Takahiro Mutsuzaki,Kotaro Nakajima",Masafumi Sakai,Kotaro Nakajima
+2021-Jan,Scientific Article,3D imaging for hindfoot alignment assessment: a comparative study between non-weight-bearing MRI and weight-bearing CT,"Anil Haldar,Alessio Bernasconi,Asif Saifuddin",Anil Haldar,Asif Saifuddin
+2021-Jan,Scientific Article,"Lateral femoral condyle insufficiency fractures: imaging findings, demographics, and analysis of outcomes","Terence P. Farrell,Diane M. Deely,Kristen E. Mc,Clure",Terence P. Farrell,Clure
+2021-Jan,Scientific Article,Imaging of non-neurogenic peripheral nerve malignancy—a case series and systematic review,"Rodrigo Luna,Laura M. Fayad,Shivani Ahlawat",Rodrigo Luna,Shivani Ahlawat
+2021-Jan,Scientific Article,Obese and overweight individuals have greater knee synovial inflammation and associated structural and cartilage compositional degeneration: data from the osteoarthritis initiative,"Thanat Kanthawang,Jannis Bodden,Thomas M. Link",Thanat Kanthawang,Thomas M. Link
+2021-Jan,Technical Report,Quantitative magnetic resonance imaging: differentiating soft tissue implants and fillers used in cosmetic and reconstructive surgery,"Elodie Niasme,Benedicte M. A. Delattre,Sana Boudabbous",Elodie Niasme,Sana Boudabbous
+2021-Jan,Test Yourself: Question,Test yourself question: right third toe swelling,"Ramanan Rajakulasingam,D. Lindsay,A. Saifuddin",Ramanan Rajakulasingam,A. Saifuddin
+2021-Jan,Test Yourself: Question,Paraspinal soft tissue masses in a patient with a metabolic bone disease,"Aishwarya Gulati,Achala Donuru,Maansi Parekh",Aishwarya Gulati,Maansi Parekh
+2021-Jan,Case Report,Parosteal osteosarcoma associated with a low-grade component mimicking well-differentiated liposarcoma: a case report,"P. Sohier,M. Rodrigues,F. Larousserie",P. Sohier,F. Larousserie
+2021-Jan,Case Report,Traumatic myositis ossificans: multifocal lesions suggesting malignancy on FDG-PET/CT—a case report,"Miho Sasaki,Yuka Hotokezaka,Shuichi Fujita",Miho Sasaki,Shuichi Fujita
+2021-Jan,Case Report,Metastasizing chondroblastoma: a rare bone tumor no longer supported by the WHO classification,"Daniel Baumhoer,Dorothee Harder,Attila Kollar",Daniel Baumhoer,Attila Kollar
+2021-Jan,Test Yourself: Answer,Right third toe swelling,"Ramanan Rajakulasingam,Daniel Lindsay,Asif Saifuddin",Ramanan Rajakulasingam,Asif Saifuddin
+2021-Jan,Test Yourself: Answer,Paraspinal soft tissue masses in a patient with a metabolic bone disease,"Aishwarya Gulati,Achala Donuru,Maansi Parekh",Aishwarya Gulati,Maansi Parekh
+2021-Jan,Browser's Notes,Browser's Notes,,,

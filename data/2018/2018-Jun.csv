@@ -1,24 +1,24 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2018-Jun,Scientific Article,Magnetic resonance imaging follow-up of chondroid tumors: regression vs. progression,Bo Mi ChungSung Hwan HongDong Hyun Kim
-2018-Jun,Scientific Article,Gemelli-obturator complex in the deep gluteal space: an anatomic and dynamic study,Ramon BaliusAntonio SusínXavier Sala-Blanch
-2018-Jun,Scientific Article,Effect of sarcopenia on clinical and surgical outcome in elderly patients with proximal femur fractures,Ching-Di ChangJim S. WuColm J. Mcmahon
-2018-Jun,Scientific Article,Reproducibility of shear wave elastography measuresof the Achilles tendon,Catherine PaynePeter WattNick Webborn
-2018-Jun,Scientific Article,Adaptive statistical iterative reconstruction use for radiation dose reduction in pediatric lower-extremity CT: impact on diagnostic image quality,Amisha ShahMitchell ReesAshok Panigrahy
-2018-Jun,Scientific Article,The association of the medial joint vacuum phenomenon with ulnar collateral ligament injury in symptomatic elbows of younger athletes,Ryan TaiTyson BolinskeJacob C. Mandell
-2018-Jun,Scientific Article,Quantification of osteoblastic activity in epiphyseal growth plates by quantitative bone SPECT/CT,Tomohiko YamaneIchiei KujiIchiro Matsunari
-2018-Jun,Scientific Article,MR arthrography of the hip: diagnostic performance and image quality of 3D-steady state free precession versus 2D turbo spin echo sequences,Mareen Sarah KrausMike NotohamiprodjoUlrich Grosse
-2018-Jun,Scientific Article,Simultaneous multi-slice accelerated turbo spin echo of the knee in pediatric patients,Sebastien BenaliPatrick R. JohnstonSarah D. Bixby
-2018-Jun,Scientific Article,Hairline fractures following volar plating of the distal radius: a recently recognized hardware-related complication,Hila OtremskiOleg DolkartYishai Rosenblatt
-2018-Jun,Technical Report,Exploring metal artifact reduction using dual-energy CT with pre-metal and post-metal implant cadaver comparison: are implant specific protocols needed?,Ruud H. H. WellenbergJohanna C. E. DondersGeert J. Streekstra
-2018-Jun,Test Yourself: Question,Clavicle pain,Jing WuHarrison X. BaiZishu Zhang
-2018-Jun,Case Report,A posterior labral cyst associated with an anterior labral tear of the hip,Elizabeth ScottRobert WestermannJames Rosneck
-2018-Jun,Case Report,Aggressive curettage of a chondroblastoma-like osteosarcoma of the proximal end of the tibia. A case report with seven-year follow-up,Luis Rafael Ramos PascuaPaula Casas RamosFrancisco Miguel Izquierdo García
-2018-Jun,Case Report,Infiltrating angiolipoma of the foot: magnetic resonance imaging features and review of the literature,Eui Dong YeoBo Mi ChungWan Tae Kim
-2018-Jun,Case Report,Gouty involvement of the patella and extensor mechanism of the knee mimicking aggressive neoplasm. A case series,Christopher KesterMatthew T. WallaceAlbert Aboulafia
-2018-Jun,Case Report,Case report: vertebral foreign body granuloma mimicking a skeletal metastasis,Josephina A. VossenSeyed M. BathaiiCurtis W. Hayes
-2018-Jun,Case Report,Mosaic-pattern dedifferentiation in liposarcoma and chondrosarcoma: imaging features of an uncommon form of dedifferentiation,Kevin TaylorMark J. KransdorfMatthew A. Zarka
-2018-Jun,Case Report,Prosthetic liner wear in total hip replacement: a longitudinal 13-year study with computed tomography,Lars WeidenhielmHenrik OlivecronaMarilyn E. Noz
-2018-Jun,Test Yourself: Answer,Clavicle pain,Jing WuHarrison X. BaiZishu Zhang
-2018-Jun,Correction,Correction to: Triple elastofibromas located in the supra- and infrascapular regions—a case report,Cyprian OlchowyMatías de AlbertRosa Dominguez Oronoz
-2018-Jun,Browser's Notes,Browser’s Notes,
-2018-Jun,Abstracts,"Annual Scientific Meeting Abstracts of the European Society of Musculoskeletal Radiology (ESSR) 2018, Amsterdam, The Netherlands",
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2018-Jun,Scientific Article,Magnetic resonance imaging follow-up of chondroid tumors: regression vs. progression,"Bo Mi Chung,Sung Hwan Hong,Dong Hyun Kim",Bo Mi Chung,Dong Hyun Kim
+2018-Jun,Scientific Article,Gemelli-obturator complex in the deep gluteal space: an anatomic and dynamic study,"Ramon Balius,Antonio Susín,Xavier Sala-Blanch",Ramon Balius,Xavier Sala-Blanch
+2018-Jun,Scientific Article,Effect of sarcopenia on clinical and surgical outcome in elderly patients with proximal femur fractures,"Ching-Di Chang,Jim S. Wu,Colm J. Mcmahon",Ching-Di Chang,Colm J. Mcmahon
+2018-Jun,Scientific Article,Reproducibility of shear wave elastography measuresof the Achilles tendon,"Catherine Payne,Peter Watt,Nick Webborn",Catherine Payne,Nick Webborn
+2018-Jun,Scientific Article,Adaptive statistical iterative reconstruction use for radiation dose reduction in pediatric lower-extremity CT: impact on diagnostic image quality,"Amisha Shah,Mitchell Rees,Ashok Panigrahy",Amisha Shah,Ashok Panigrahy
+2018-Jun,Scientific Article,The association of the medial joint vacuum phenomenon with ulnar collateral ligament injury in symptomatic elbows of younger athletes,"Ryan Tai,Tyson Bolinske,Jacob C. Mandell",Ryan Tai,Jacob C. Mandell
+2018-Jun,Scientific Article,Quantification of osteoblastic activity in epiphyseal growth plates by quantitative bone SPECT/CT,"Tomohiko Yamane,Ichiei Kuji,Ichiro Matsunari",Tomohiko Yamane,Ichiro Matsunari
+2018-Jun,Scientific Article,MR arthrography of the hip: diagnostic performance and image quality of 3D-steady state free precession versus 2D turbo spin echo sequences,"Mareen Sarah Kraus,Mike Notohamiprodjo,Ulrich Grosse",Mareen Sarah Kraus,Ulrich Grosse
+2018-Jun,Scientific Article,Simultaneous multi-slice accelerated turbo spin echo of the knee in pediatric patients,"Sebastien Benali,Patrick R. Johnston,Sarah D. Bixby",Sebastien Benali,Sarah D. Bixby
+2018-Jun,Scientific Article,Hairline fractures following volar plating of the distal radius: a recently recognized hardware-related complication,"Hila Otremski,Oleg Dolkart,Yishai Rosenblatt",Hila Otremski,Yishai Rosenblatt
+2018-Jun,Technical Report,Exploring metal artifact reduction using dual-energy CT with pre-metal and post-metal implant cadaver comparison: are implant specific protocols needed?,"Ruud H. H. Wellenberg,Johanna C. E. Donders,Geert J. Streekstra",Ruud H. H. Wellenberg,Geert J. Streekstra
+2018-Jun,Test Yourself: Question,Clavicle pain,"Jing Wu,Harrison X. Bai,Zishu Zhang",Jing Wu,Zishu Zhang
+2018-Jun,Case Report,A posterior labral cyst associated with an anterior labral tear of the hip,"Elizabeth Scott,Robert Westermann,James Rosneck",Elizabeth Scott,James Rosneck
+2018-Jun,Case Report,Aggressive curettage of a chondroblastoma-like osteosarcoma of the proximal end of the tibia. A case report with seven-year follow-up,"Luis Rafael Ramos Pascua,Paula Casas Ramos,Francisco Miguel Izquierdo García",Luis Rafael Ramos Pascua,Francisco Miguel Izquierdo García
+2018-Jun,Case Report,Infiltrating angiolipoma of the foot: magnetic resonance imaging features and review of the literature,"Eui Dong Yeo,Bo Mi Chung,Wan Tae Kim",Eui Dong Yeo,Wan Tae Kim
+2018-Jun,Case Report,Gouty involvement of the patella and extensor mechanism of the knee mimicking aggressive neoplasm. A case series,"Christopher Kester,Matthew T. Wallace,Albert Aboulafia",Christopher Kester,Albert Aboulafia
+2018-Jun,Case Report,Case report: vertebral foreign body granuloma mimicking a skeletal metastasis,"Josephina A. Vossen,Seyed M. Bathaii,Curtis W. Hayes",Josephina A. Vossen,Curtis W. Hayes
+2018-Jun,Case Report,Mosaic-pattern dedifferentiation in liposarcoma and chondrosarcoma: imaging features of an uncommon form of dedifferentiation,"Kevin Taylor,Mark J. Kransdorf,Matthew A. Zarka",Kevin Taylor,Matthew A. Zarka
+2018-Jun,Case Report,Prosthetic liner wear in total hip replacement: a longitudinal 13-year study with computed tomography,"Lars Weidenhielm,Henrik Olivecrona,Marilyn E. Noz",Lars Weidenhielm,Marilyn E. Noz
+2018-Jun,Test Yourself: Answer,Clavicle pain,"Jing Wu,Harrison X. Bai,Zishu Zhang",Jing Wu,Zishu Zhang
+2018-Jun,Correction,Correction to: Triple elastofibromas located in the supra- and infrascapular regions—a case report,"Cyprian Olchowy,Matías de Albert,Rosa Dominguez Oronoz",Cyprian Olchowy,Rosa Dominguez Oronoz
+2018-Jun,Browser's Notes,Browser’s Notes,,,
+2018-Jun,Abstracts,"Annual Scientific Meeting Abstracts of the European Society of Musculoskeletal Radiology (ESSR) 2018, Amsterdam, The Netherlands",,,

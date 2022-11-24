@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2020-Jul,Review Article,Pelvic bone tumor resection: what a radiologist needs to know,Michael McCollLaura M. FayadShivani Ahlawat
-2020-Jul,Review Article,"Computed tomography (CT), X-ray, and MRI evaluation of two anterolateral knee reconstruction techniques: lateral extra-articular tenodesis (LET) and the anterolateral ligament (ALL) reconstruction",Carlos Felipe Teixeira LôboPaulo Victor Partezani HelitoCamilo Partezani Helito
-2020-Jul,Scientific Article,Does MR arthrography cause intracranial gadolinium deposition?,Katherine M. BunnellRobert HemkeMiriam A. Bredella
-2020-Jul,Scientific Article,Distal insertional anatomy of the triceps brachii muscle: MRI assessment in cadaveric specimens employing histologic correlation and Play-doh® models of the anatomic findings,José Renato NegrãoRoberto MogamiDonald L. Resnick
-2020-Jul,Correction,Correction to: Distal insertional anatomy of the triceps brachii muscle: MRI assessment in cadaveric specimens employing histologic correlation and Play-doh® models of the anatomic findings,José Renato NegrãoRoberto MogamiDonald L. Resnick
-2020-Jul,Scientific Article,Interchangeability of CT and 3D “pseudo-CT” MRI for preoperative planning in patients with femoroacetabular impingement,Albair GuirguisJoshua PolsterNaveen Subhas
-2020-Jul,Scientific Article,Clinical and sonographic evaluation of Endobutton distal biceps brachii tendon repair: what constitutes normal post-operative appearances?,Ramin MandegaranSean CrowtherSukhvinder Dhillon
-2020-Jul,Scientific Article,Prevalence and distribution of MRI abnormalities in the articular cartilage and supporting ligaments in patients with early clinical stage first carpometacarpal joint osteoarthritis,Kee Jeong BaeHyo Seok JangGoo Hyun Baek
-2020-Jul,Scientific Article,Prevalence of abnormal findings in 230 knees of asymptomatic adults using 3.0 T MRI,Laura M. HorgaAnna C. HirschmannAlister J. Hart
-2020-Jul,Scientific Article,2019 musculoskeletal radiology fellowship match process: initial experiences and lessons learned,Soterios GyftopoulosJennifer L. DemertzisBethany Casagranda
-2020-Jul,Scientific Article,Chondral tumours: discrepancy rate between needle biopsy and surgical histology,Ines OliveiraAnesh ChavdaAsif Saifuddin
-2020-Jul,Scientific Article,Increased focal bone tracer uptake at the popliteus muscle origin in primary TKA compared with revision TKA,Lukas B. MoserRamin MandegaranMichael T. Hirschmann
-2020-Jul,Scientific Article,Sonographic evaluation of the lateral femoral cutaneous nerve in meralgia paresthetica,G. M. PowellF. I. BaffourK. N. Glazebrook
-2020-Jul,Scientific Article,Prevalence and frequency of subchondral bone marrow edema in the lumbar facet joints of asymptomatic and symptomatic individuals,Afarine MadaniRaphaël KatzPierre Alain Gevenois
-2020-Jul,Scientific Article,Analysis of musculoskeletal radiology fellowship websites,David J. LeeJin JungAdam E.M. Eltorai
-2020-Jul,Technical Report,Dynamic ultrasound-guided trochanteric bursal injection,Timothy É. MurrayDavid RobertsMark Cresswell
-2020-Jul,Test Yourself: Question,Diagnosis: Subcutaneous myxopapillary ependymoma,Bashiar ThejeelRamanan RajakulasingamAsif Saifuddin
-2020-Jul,Case Report,Blau syndrome: a rare cause of exuberant granulomatous synovitis of the knee,Wendy BrownS Fiona BonarRichard Boyle
-2020-Jul,Case Report,Human T cell lymphotropic virus type-1 associated lymphoma presenting as an intramuscular mass of the calf,Natalia GorelikSyed T HodaRonald Adler
-2020-Jul,Test Yourself: Answer,Diagnosis: subcutaneous myxopapillary ependymoma,Bashiar ThejeelRamanan RajakulasingamAsif Saifuddin
-2020-Jul,Browser's Notes,Browser’s notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2020-Jul,Review Article,Pelvic bone tumor resection: what a radiologist needs to know,"Michael Mc,Coll,Laura M. Fayad,Shivani Ahlawat",Michael Mc,Shivani Ahlawat
+2020-Jul,Review Article,"Computed tomography (CT), X-ray, and MRI evaluation of two anterolateral knee reconstruction techniques: lateral extra-articular tenodesis (LET) and the anterolateral ligament (ALL) reconstruction","Carlos Felipe Teixeira Lôbo,Paulo Victor Partezani Helito,Camilo Partezani Helito",Carlos Felipe Teixeira Lôbo,Camilo Partezani Helito
+2020-Jul,Scientific Article,Does MR arthrography cause intracranial gadolinium deposition?,"Katherine M. Bunnell,Robert Hemke,Miriam A. Bredella",Katherine M. Bunnell,Miriam A. Bredella
+2020-Jul,Scientific Article,Distal insertional anatomy of the triceps brachii muscle: MRI assessment in cadaveric specimens employing histologic correlation and Play-doh® models of the anatomic findings,"José Renato Negrão,Roberto Mogami,Donald L. Resnick",José Renato Negrão,Donald L. Resnick
+2020-Jul,Correction,Correction to: Distal insertional anatomy of the triceps brachii muscle: MRI assessment in cadaveric specimens employing histologic correlation and Play-doh® models of the anatomic findings,"José Renato Negrão,Roberto Mogami,Donald L. Resnick",José Renato Negrão,Donald L. Resnick
+2020-Jul,Scientific Article,Interchangeability of CT and 3D “pseudo-CT” MRI for preoperative planning in patients with femoroacetabular impingement,"Albair Guirguis,Joshua Polster,Naveen Subhas",Albair Guirguis,Naveen Subhas
+2020-Jul,Scientific Article,Clinical and sonographic evaluation of Endobutton distal biceps brachii tendon repair: what constitutes normal post-operative appearances?,"Ramin Mandegaran,Sean Crowther,Sukhvinder Dhillon",Ramin Mandegaran,Sukhvinder Dhillon
+2020-Jul,Scientific Article,Prevalence and distribution of MRI abnormalities in the articular cartilage and supporting ligaments in patients with early clinical stage first carpometacarpal joint osteoarthritis,"Kee Jeong Bae,Hyo Seok Jang,Goo Hyun Baek",Kee Jeong Bae,Goo Hyun Baek
+2020-Jul,Scientific Article,Prevalence of abnormal findings in 230 knees of asymptomatic adults using 3.0 T MRI,"Laura M. Horga,Anna C. Hirschmann,Alister J. Hart",Laura M. Horga,Alister J. Hart
+2020-Jul,Scientific Article,2019 musculoskeletal radiology fellowship match process: initial experiences and lessons learned,"Soterios Gyftopoulos,Jennifer L. Demertzis,Bethany Casagranda",Soterios Gyftopoulos,Bethany Casagranda
+2020-Jul,Scientific Article,Chondral tumours: discrepancy rate between needle biopsy and surgical histology,"Ines Oliveira,Anesh Chavda,Asif Saifuddin",Ines Oliveira,Asif Saifuddin
+2020-Jul,Scientific Article,Increased focal bone tracer uptake at the popliteus muscle origin in primary TKA compared with revision TKA,"Lukas B. Moser,Ramin Mandegaran,Michael T. Hirschmann",Lukas B. Moser,Michael T. Hirschmann
+2020-Jul,Scientific Article,Sonographic evaluation of the lateral femoral cutaneous nerve in meralgia paresthetica,"G. M. Powell,F. I. Baffour,K. N. Glazebrook",G. M. Powell,K. N. Glazebrook
+2020-Jul,Scientific Article,Prevalence and frequency of subchondral bone marrow edema in the lumbar facet joints of asymptomatic and symptomatic individuals,"Afarine Madani,Raphaël Katz,Pierre Alain Gevenois",Afarine Madani,Pierre Alain Gevenois
+2020-Jul,Scientific Article,Analysis of musculoskeletal radiology fellowship websites,"David J. Lee,Jin Jung,Adam E.M. Eltorai",David J. Lee,Adam E.M. Eltorai
+2020-Jul,Technical Report,Dynamic ultrasound-guided trochanteric bursal injection,"Timothy É. Murray,David Roberts,Mark Cresswell",Timothy É. Murray,Mark Cresswell
+2020-Jul,Test Yourself: Question,Diagnosis: Subcutaneous myxopapillary ependymoma,"Bashiar Thejeel,Ramanan Rajakulasingam,Asif Saifuddin",Bashiar Thejeel,Asif Saifuddin
+2020-Jul,Case Report,Blau syndrome: a rare cause of exuberant granulomatous synovitis of the knee,"Wendy Brown,S Fiona Bonar,Richard Boyle",Wendy Brown,Richard Boyle
+2020-Jul,Case Report,Human T cell lymphotropic virus type-1 associated lymphoma presenting as an intramuscular mass of the calf,"Natalia Gorelik,Syed T Hoda,Ronald Adler",Natalia Gorelik,Ronald Adler
+2020-Jul,Test Yourself: Answer,Diagnosis: subcutaneous myxopapillary ependymoma,"Bashiar Thejeel,Ramanan Rajakulasingam,Asif Saifuddin",Bashiar Thejeel,Asif Saifuddin
+2020-Jul,Browser's Notes,Browser’s notes,,,

@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2022-Jun,Review Article,The painful lateral column of the foot: from back to front,Julia Crim
-2022-Jun,Review Article,Imaging of progressive collapsing foot deformity with emphasis on the role of weightbearing cone beam CT,Carlos Felipe Teixeira LôboEduardo Araújo PiresAlexandre Leme Godoy-Santos
-2022-Jun,Review Article,"Diagnosis, imaging, and potential morbidities of the hallux interphalangeal joint os interphalangeus",Sara MateenKwasi Y. KwaaduSayed Ali
-2022-Jun,Review Article,"Low-velocity, civilian firearm extremity injuries—review and update for radiologists",Kimia Khalatbari KaniJack A. PorrinoFelix S. Chew
-2022-Jun,Scientific Article,Incidental posterior rib hyperostosis on chest CT: incidence and etiology,Luke FragerDennis HeatonBrian M. Everist
-2022-Jun,Scientific Article,Preoperative ultrasound accurately characterizes surgically confirmed extracranial spinal accessory nerve injuries,Garret M. PowellFrancis I. BaffourKatrina N. Glazebrook
-2022-Jun,Scientific Article,Peripheral and periosteal chondrosarcoma: MRI-pathological correlation in 58 cases,William TildenVanghelita AndreiAsif Saifuddin
-2022-Jun,Scientific Article,Inter- and intra-observer reliability of patellar height measurements in patients with and without patellar instability on plain radiographs and magnetic resonance imaging,Stephen PickenHarry SummersOday Al-Dadah
-2022-Jun,Scientific Article,Management of uncomplicated total knee arthroplasty chronic pain and stiffness utilizing cooled radiofrequency ablation: a single institution pilot study,Fiza M. KhanAndrew TranFelix M. Gonzalez
-2022-Jun,Scientific Article,Medial collateral ligament injury of the knee: correlations between MRI features and clinical gradings,Christopher WaturaCatrin MorganPaul Sookur
-2022-Jun,Scientific Article,Feasibility study of hallux valgus measurement with a deep convolutional neural network based on landmark detection,Tong LiYuzhao WangJianwu Zhao
-2022-Jun,Scientific Article,Fully automated deep learning for knee alignment assessment in lower extremity radiographs: a cross-sectional diagnostic study,Sebastian SimonGilbert M. SchwarzJochen G. Hofstaetter
-2022-Jun,Scientific Article,A new radiological index for the assessment of higher body fat status and lumbar spine degeneration,Emel Ece Özcan-EkşiMüjdat KaraMurat Şakir Ekşi
-2022-Jun,Scientific Article,An Investigation of 2D Spine Magnetic Resonance Imaging (MRI) with Compressed Sensing (CS),Jianxing QiuJing LiuNaishan Qin
-2022-Jun,Scientific Article,Systematic review: investigating the added diagnostic value of gadolinium contrast agents for osteomyelitis in the appendicular skeleton,Chase C. LabisteEvan McElroyJames S. Banks
-2022-Jun,Scientific Article,Psoas muscle index is related to hip fracture in osteoporosis: a cross-sectional MRI study,Bilinc Dogruoz KaratekinZeynep Nilufer Tekin
-2022-Jun,Technical Report,Utility of multidetector computed tomography quantitative measurements in identifying sarcopenia: a propensity score matched study,Yu-Qiang ZuoZhi-Hong GaoPing-Yong Feng
-2022-Jun,Test Yourself: Question,Test Yourself Question: A 36-year-old male presenting with a painful swollen right thigh for several months—no previous history of trauma,Sherif ElsobkyRamanan RajakulasingamAsif Saifuddin
-2022-Jun,Case Report,Cervical spine tenosynovial giant cell tumor involving the atlantoaxial joint in a pediatric patient with medulloblastoma,Waylon Wai Chung TsuiKin Fen Kevin FungYee Ling Elaine Kan
-2022-Jun,Case Report,Intraosseous hibernoma of the appendicular skeleton,Salvatore GittoThom DoelemanKirsten van Langevelde
-2022-Jun,Test Yourself: Answer,Test Yourself Answer: A 36-year-old male presenting with a painful swollen right thigh for several months—no previous history of trauma,Sherif ElsobkyRamanan RajakulasingamAsif Saifuddin
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2022-Jun,Review Article,The painful lateral column of the foot: from back to front,Julia Crim,Julia Crim,Julia Crim
+2022-Jun,Review Article,Imaging of progressive collapsing foot deformity with emphasis on the role of weightbearing cone beam CT,"Carlos Felipe Teixeira Lôbo,Eduardo Araújo Pires,Alexandre Leme Godoy-Santos",Carlos Felipe Teixeira Lôbo,Alexandre Leme Godoy-Santos
+2022-Jun,Review Article,"Diagnosis, imaging, and potential morbidities of the hallux interphalangeal joint os interphalangeus","Sara Mateen,Kwasi Y. Kwaadu,Sayed Ali",Sara Mateen,Sayed Ali
+2022-Jun,Review Article,"Low-velocity, civilian firearm extremity injuries—review and update for radiologists","Kimia Khalatbari Kani,Jack A. Porrino,Felix S. Chew",Kimia Khalatbari Kani,Felix S. Chew
+2022-Jun,Scientific Article,Incidental posterior rib hyperostosis on chest CT: incidence and etiology,"Luke Frager,Dennis Heaton,Brian M. Everist",Luke Frager,Brian M. Everist
+2022-Jun,Scientific Article,Preoperative ultrasound accurately characterizes surgically confirmed extracranial spinal accessory nerve injuries,"Garret M. Powell,Francis I. Baffour,Katrina N. Glazebrook",Garret M. Powell,Katrina N. Glazebrook
+2022-Jun,Scientific Article,Peripheral and periosteal chondrosarcoma: MRI-pathological correlation in 58 cases,"William Tilden,Vanghelita Andrei,Asif Saifuddin",William Tilden,Asif Saifuddin
+2022-Jun,Scientific Article,Inter- and intra-observer reliability of patellar height measurements in patients with and without patellar instability on plain radiographs and magnetic resonance imaging,"Stephen Picken,Harry Summers,Oday Al-Dadah",Stephen Picken,Oday Al-Dadah
+2022-Jun,Scientific Article,Management of uncomplicated total knee arthroplasty chronic pain and stiffness utilizing cooled radiofrequency ablation: a single institution pilot study,"Fiza M. Khan,Andrew Tran,Felix M. Gonzalez",Fiza M. Khan,Felix M. Gonzalez
+2022-Jun,Scientific Article,Medial collateral ligament injury of the knee: correlations between MRI features and clinical gradings,"Christopher Watura,Catrin Morgan,Paul Sookur",Christopher Watura,Paul Sookur
+2022-Jun,Scientific Article,Feasibility study of hallux valgus measurement with a deep convolutional neural network based on landmark detection,"Tong Li,Yuzhao Wang,Jianwu Zhao",Tong Li,Jianwu Zhao
+2022-Jun,Scientific Article,Fully automated deep learning for knee alignment assessment in lower extremity radiographs: a cross-sectional diagnostic study,"Sebastian Simon,Gilbert M. Schwarz,Jochen G. Hofstaetter",Sebastian Simon,Jochen G. Hofstaetter
+2022-Jun,Scientific Article,A new radiological index for the assessment of higher body fat status and lumbar spine degeneration,"Emel Ece Özcan-Ekşi,Müjdat Kara,Murat Şakir Ekşi",Emel Ece Özcan-Ekşi,Murat Şakir Ekşi
+2022-Jun,Scientific Article,An Investigation of 2D Spine Magnetic Resonance Imaging (MRI) with Compressed Sensing (CS),"Jianxing Qiu,Jing Liu,Naishan Qin",Jianxing Qiu,Naishan Qin
+2022-Jun,Scientific Article,Systematic review: investigating the added diagnostic value of gadolinium contrast agents for osteomyelitis in the appendicular skeleton,"Chase C. Labiste,Evan Mc,Elroy,James S. Banks",Chase C. Labiste,James S. Banks
+2022-Jun,Scientific Article,Psoas muscle index is related to hip fracture in osteoporosis: a cross-sectional MRI study,"Bilinc Dogruoz Karatekin,Zeynep Nilufer Tekin",Bilinc Dogruoz Karatekin,Zeynep Nilufer Tekin
+2022-Jun,Technical Report,Utility of multidetector computed tomography quantitative measurements in identifying sarcopenia: a propensity score matched study,"Yu-Qiang Zuo,Zhi-Hong Gao,Ping-Yong Feng",Yu-Qiang Zuo,Ping-Yong Feng
+2022-Jun,Test Yourself: Question,Test Yourself Question: A 36-year-old male presenting with a painful swollen right thigh for several months—no previous history of trauma,"Sherif Elsobky,Ramanan Rajakulasingam,Asif Saifuddin",Sherif Elsobky,Asif Saifuddin
+2022-Jun,Case Report,Cervical spine tenosynovial giant cell tumor involving the atlantoaxial joint in a pediatric patient with medulloblastoma,"Waylon Wai Chung Tsui,Kin Fen Kevin Fung,Yee Ling Elaine Kan",Waylon Wai Chung Tsui,Yee Ling Elaine Kan
+2022-Jun,Case Report,Intraosseous hibernoma of the appendicular skeleton,"Salvatore Gitto,Thom Doeleman,Kirsten van Langevelde",Salvatore Gitto,Kirsten van Langevelde
+2022-Jun,Test Yourself: Answer,Test Yourself Answer: A 36-year-old male presenting with a painful swollen right thigh for several months—no previous history of trauma,"Sherif Elsobky,Ramanan Rajakulasingam,Asif Saifuddin",Sherif Elsobky,Asif Saifuddin

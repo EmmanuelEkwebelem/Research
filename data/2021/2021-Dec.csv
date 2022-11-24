@@ -1,28 +1,28 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2021-Dec,Review Article,MRI nomenclature for musculoskeletal infection,Erin F. AlaiaAvneesh ChhabraWilliam B. Morrison
-2021-Dec,Review Article,Emerging role of integrated PET-MRI in osteoarthritis,Amarnath JenaSangeeta TanejaRaju Vaishya
-2021-Dec,Review Article,Telangiectatic soft tissue sarcoma and chronic expanding haematoma: a comparative review of MRI features,William TildenAsif Saifuddin
-2021-Dec,Scientific Article,Shear wave elastography assessment and comparison study of the Achilles tendons in optimally conditioned asymptomatic young collegiate athletes,Felix M. GonzalezCourtney A GleasonDavid A Reiter
-2021-Dec,Correction,Correction to: Shear wave elastography assessment and comparison study of the Achilles tendons in optimally conditioned asymptomatic young collegiate athletes,Felix M. GonzalezCourtney N. GleasonDavid A. Reiter
-2021-Dec,Scientific Article,The diagnostic performance of MRI signs to distinguish Pectoralis major tendon avulsions from Myotendinous injuries,Jonathan C. BakerRafael A. PachecoDavid A. Rubin
-2021-Dec,Scientific Article,Quantitative magnetic resonance imaging of meniscal pathology ex vivo,Won C. BaeAnthony S. TadrosChristine B. Chung
-2021-Dec,Scientific Article,Skip metastases in high-grade intramedullary appendicular osteosarcoma: an indicator of more aggressive disease?,Asif SaifuddinMaria MichelagnoliIan Pressney
-2021-Dec,Scientific Article,Magnetic resonance imaging findings associated with posterior ankle impingement syndrome are prevalent in elite ballet dancers and athletes,Peta BaillieJill CookSusan Mayes
-2021-Dec,Scientific Article,"Aneurysmal bone cysts in the spine, causing neurological compromise: safety and clinical efficacy of sclerotherapy utilizing sodium Tetradecyl sulfate foam",Danoob DaliliJack ParkerJeremy Reynolds
-2021-Dec,Scientific Article,Rapidly progressive idiopathic arthritis of the hip: incidence and risk factors in a controlled cohort study of 1471 patients after intra-articular corticosteroid injection,Robert D. BoutinJason PaiLawrence Yao
-2021-Dec,Scientific Article,Efficacy and safety of magnetic resonance-guided focused ultrasound for the treatment of painful bone metastases: a systematic review and meta-analysis,Joe D. BaalWilliam C. ChenMatthew D. Bucknor
-2021-Dec,Scientific Article,Safety and efficacy of image-guided retrocalcaneal bursa corticosteroid injection for the treatment of retrocalcaneal bursitis,Sean L. BooneRobert UzorShlomit Goldberg-Stein
-2021-Dec,Scientific Article,Intravenous contrast does not improve detection of nerve lesions or active muscle denervation changes in MR neurography of the common peroneal nerve,Steven P. DanielsAndrew B. RossMichael J. Tuite
-2021-Dec,Scientific Article,Observer agreement in the choice of lumbar spine injection for pain management,Rene BalzaSarah F. MercaldoWilliam E. Palmer
-2021-Dec,Scientific Article,Association between lumbosacral transitional vertebrae and spinal pathologies based on T2 whole-spine sagittal magnetic resonance imaging,Oded RabauYossi SmorgickYoram Anekstein
-2021-Dec,Scientific Article,Diagnostic contribution of contrast-enhanced 3D MR imaging of peripheral nerve pathology,Swati DeshmukhKyle TegtmeyerJonathan Samet
-2021-Dec,Scientific Article,A comprehensive analysis of authorship trends in Skeletal Radiology since inception from 1976 to 2020,Alexander L. HsuMarcus KonnerRobert D. Irish
-2021-Dec,Scientific Article,"Correlation between Hounsfield unit derived from head, thorax, abdomen, spine and pelvis CT and t-scores from DXA",Mohamad Farhan Mohamad AminWan Mezlina Wan ZakariaNoorazrul Yahya
-2021-Dec,Letter to the Editor,Utilising CT data for assessing bone density,Joseph C. LeeNikita Patel
-2021-Dec,Letter to the editor,"Reply to “Comment on ‘Correlation between Hounsfield unit derived from head, thorax, abdomen, spine and pelvis CT and t-scores from DXA’”",Noorazrul YahyaMohamad Farhan Mohamad AminWan Mezlina Wan Zakaria
-2021-Dec,Technical Report,Ultrasound-guided release of post-arthroscopy extra-articular hip adhesions in femoroacetabular impingement: a novel technique,Santhosh M V ReddyOlufemi AyeniHema N Choudur
-2021-Dec,Test Yourself: Question,Test Yourself Question: Right knee pain following prolonged standing,Pedro Morgan Loureiro MigueloteLeonardo Hoehl CarneiroDiogo Goulart Corrêa
-2021-Dec,Case Report,An accessory iliotibial band insertion: a unique anatomical variant,Ramanan RajakulasingamRuth A. R. GreenAsif Saifuddin
-2021-Dec,Test Yourself: Answer,Test Yourself Answer: right knee pain following prolonged standing,Pedro Morgan Loureiro MigueloteLeonardo Hoehl CarneiroDiogo Goulart Corrêa
-2021-Dec,Announcement,2020 Award Winning Papers,
-2021-Dec,Browser Notes,Browser Notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2021-Dec,Review Article,MRI nomenclature for musculoskeletal infection,"Erin F. Alaia,Avneesh Chhabra,William B. Morrison",Erin F. Alaia,William B. Morrison
+2021-Dec,Review Article,Emerging role of integrated PET-MRI in osteoarthritis,"Amarnath Jena,Sangeeta Taneja,Raju Vaishya",Amarnath Jena,Raju Vaishya
+2021-Dec,Review Article,Telangiectatic soft tissue sarcoma and chronic expanding haematoma: a comparative review of MRI features,"William Tilden,Asif Saifuddin",William Tilden,Asif Saifuddin
+2021-Dec,Scientific Article,Shear wave elastography assessment and comparison study of the Achilles tendons in optimally conditioned asymptomatic young collegiate athletes,"Felix M. Gonzalez,Courtney A Gleason,David A Reiter",Felix M. Gonzalez,David A Reiter
+2021-Dec,Correction,Correction to: Shear wave elastography assessment and comparison study of the Achilles tendons in optimally conditioned asymptomatic young collegiate athletes,"Felix M. Gonzalez,Courtney N. Gleason,David A. Reiter",Felix M. Gonzalez,David A. Reiter
+2021-Dec,Scientific Article,The diagnostic performance of MRI signs to distinguish Pectoralis major tendon avulsions from Myotendinous injuries,"Jonathan C. Baker,Rafael A. Pacheco,David A. Rubin",Jonathan C. Baker,David A. Rubin
+2021-Dec,Scientific Article,Quantitative magnetic resonance imaging of meniscal pathology ex vivo,"Won C. Bae,Anthony S. Tadros,Christine B. Chung",Won C. Bae,Christine B. Chung
+2021-Dec,Scientific Article,Skip metastases in high-grade intramedullary appendicular osteosarcoma: an indicator of more aggressive disease?,"Asif Saifuddin,Maria Michelagnoli,Ian Pressney",Asif Saifuddin,Ian Pressney
+2021-Dec,Scientific Article,Magnetic resonance imaging findings associated with posterior ankle impingement syndrome are prevalent in elite ballet dancers and athletes,"Peta Baillie,Jill Cook,Susan Mayes",Peta Baillie,Susan Mayes
+2021-Dec,Scientific Article,"Aneurysmal bone cysts in the spine, causing neurological compromise: safety and clinical efficacy of sclerotherapy utilizing sodium Tetradecyl sulfate foam","Danoob Dalili,Jack Parker,Jeremy Reynolds",Danoob Dalili,Jeremy Reynolds
+2021-Dec,Scientific Article,Rapidly progressive idiopathic arthritis of the hip: incidence and risk factors in a controlled cohort study of 1471 patients after intra-articular corticosteroid injection,"Robert D. Boutin,Jason Pai,Lawrence Yao",Robert D. Boutin,Lawrence Yao
+2021-Dec,Scientific Article,Efficacy and safety of magnetic resonance-guided focused ultrasound for the treatment of painful bone metastases: a systematic review and meta-analysis,"Joe D. Baal,William C. Chen,Matthew D. Bucknor",Joe D. Baal,Matthew D. Bucknor
+2021-Dec,Scientific Article,Safety and efficacy of image-guided retrocalcaneal bursa corticosteroid injection for the treatment of retrocalcaneal bursitis,"Sean L. Boone,Robert Uzor,Shlomit Goldberg-Stein",Sean L. Boone,Shlomit Goldberg-Stein
+2021-Dec,Scientific Article,Intravenous contrast does not improve detection of nerve lesions or active muscle denervation changes in MR neurography of the common peroneal nerve,"Steven P. Daniels,Andrew B. Ross,Michael J. Tuite",Steven P. Daniels,Michael J. Tuite
+2021-Dec,Scientific Article,Observer agreement in the choice of lumbar spine injection for pain management,"Rene Balza,Sarah F. Mercaldo,William E. Palmer",Rene Balza,William E. Palmer
+2021-Dec,Scientific Article,Association between lumbosacral transitional vertebrae and spinal pathologies based on T2 whole-spine sagittal magnetic resonance imaging,"Oded Rabau,Yossi Smorgick,Yoram Anekstein",Oded Rabau,Yoram Anekstein
+2021-Dec,Scientific Article,Diagnostic contribution of contrast-enhanced 3D MR imaging of peripheral nerve pathology,"Swati Deshmukh,Kyle Tegtmeyer,Jonathan Samet",Swati Deshmukh,Jonathan Samet
+2021-Dec,Scientific Article,A comprehensive analysis of authorship trends in Skeletal Radiology since inception from 1976 to 2020,"Alexander L. Hsu,Marcus Konner,Robert D. Irish",Alexander L. Hsu,Robert D. Irish
+2021-Dec,Scientific Article,"Correlation between Hounsfield unit derived from head, thorax, abdomen, spine and pelvis CT and t-scores from DXA","Mohamad Farhan Mohamad Amin,Wan Mezlina Wan Zakaria,Noorazrul Yahya",Mohamad Farhan Mohamad Amin,Noorazrul Yahya
+2021-Dec,Letter to the Editor,Utilising CT data for assessing bone density,"Joseph C. Lee,Nikita Patel",Joseph C. Lee,Nikita Patel
+2021-Dec,Letter to the editor,"Reply to “Comment on ‘Correlation between Hounsfield unit derived from head, thorax, abdomen, spine and pelvis CT and t-scores from DXA’”","Noorazrul Yahya,Mohamad Farhan Mohamad Amin,Wan Mezlina Wan Zakaria",Noorazrul Yahya,Wan Mezlina Wan Zakaria
+2021-Dec,Technical Report,Ultrasound-guided release of post-arthroscopy extra-articular hip adhesions in femoroacetabular impingement: a novel technique,"Santhosh M V Reddy,Olufemi Ayeni,Hema N Choudur",Santhosh M V Reddy,Hema N Choudur
+2021-Dec,Test Yourself: Question,Test Yourself Question: Right knee pain following prolonged standing,"Pedro Morgan Loureiro Miguelote,Leonardo Hoehl Carneiro,Diogo Goulart Corrêa",Pedro Morgan Loureiro Miguelote,Diogo Goulart Corrêa
+2021-Dec,Case Report,An accessory iliotibial band insertion: a unique anatomical variant,"Ramanan Rajakulasingam,Ruth A. R. Green,Asif Saifuddin",Ramanan Rajakulasingam,Asif Saifuddin
+2021-Dec,Test Yourself: Answer,Test Yourself Answer: right knee pain following prolonged standing,"Pedro Morgan Loureiro Miguelote,Leonardo Hoehl Carneiro,Diogo Goulart Corrêa",Pedro Morgan Loureiro Miguelote,Diogo Goulart Corrêa
+2021-Dec,Announcement,2020 Award Winning Papers,,,
+2021-Dec,Browser Notes,Browser Notes,,,

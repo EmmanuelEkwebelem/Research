@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2019-Jul,Review Article,Surgical management of patellofemoral instability part 2: post-operative imaging,Neeraj PurohitNicholas HancockAsif Saifuddin
-2019-Jul,Review Article,Magnetic resonance imaging of subchondral insufficiency fractures of the lower limb,Sangoh LeeAsif Saifuddin
-2019-Jul,Scientific Article,Assessing the effects of long-term osteoporosis treatment by using conventional spine radiographs: results from a pilot study in a sub-cohort of a large randomized controlled trial,Hans Peter DimaiRichard LjuharAstrid Fahrleitner-Pammer
-2019-Jul,Scientific Article,Preliminary validation of the Simplified Psoriatic Arthritis Radiographic Score (SPARS),Fausto SalaffiMarina CarottiAndrea Giovagnoni
-2019-Jul,Scientific Article,B-cell peripheral neurolymphomatosis: MRI and 18F-FDG PET/CT imaging characteristics,Anthony H. DeVriesBenjamin M. HoweStephen M. Broski
-2019-Jul,Scientific Article,Does facet tropism negatively affect the response to transforaminal epidural steroid injections? A prospective clinical study,Alp Eren CelenlıogluSavas SencanOsman Hakan Gunduz
-2019-Jul,Scientific Article,"Soft tissue aneurysmal bone cyst: six new cases with imaging details, molecular pathology, and review of the literature",Wangzhao SongAlbert J. H. SuurmeijerHerman M. Kroon
-2019-Jul,Scientific Article,The lateral joint space width can be measured reliably with Telos valgus stress radiography in medial knee osteoarthritis,Daan KoppensOle Gade SørensenTorben Bæk Hansen
-2019-Jul,Scientific Article,MRI of a painful carpal boss: variations at the extensor carpi radialis brevis insertion and imaging findings in regional traumatic and overuse injuries,Mika T. NevalainenJohannes B. RoedlAdam C. Zoga
-2019-Jul,Scientific Article,Maturation-dependent findings in the shoulders of pediatric baseball players on magnetic resonance imaging,Jie C. NguyenBin LinHollis G. Potter
-2019-Jul,Scientific Article,Characterization of glenoid bone remodeling in professional baseball pitchers,Jonathan RassiNaveen SubhasJoshua Polster
-2019-Jul,Perspective,Three approaches to full-spine radiograph measurement reporting,Takashi TakahashiDavid PollyChristopher T. Martin
-2019-Jul,Technical Report,Technically successful ultrasound-guided percutaneous sural nerve needle biopsy in a patient with indeterminate peripheral neuropathy,Michael C. ForneyXin LiMurali Sundaram
-2019-Jul,Technical Report,Optimizing methods to quantify intramuscular fat in rotator cuff tears with normalization,Paul S. MicevychAnkur GargAmee L. Seitz
-2019-Jul,Case Report,Medial iliac stress fractures in athletes: report of two rare cases: review of literature and clinical recommendations,Kenneth VitaleEdward SmitamanBrady K. Huang
-2019-Jul,Case Report,Osteomyelitis of a sacral neurocentral synchondrosis: a case report of another metaphyseal equivalent,Osamu MiyazakiMikiko MiyasakaShunsuke Nosaka
-2019-Jul,Case Report,"Posterior dislocation of the long head biceps tendon: a case report, specific radiographic finding, and review of the literature",Peter MoreauMichael BreslerWinnie A. Mar
-2019-Jul,Case Report,Ulnar hemimelia: a report of four cases,Meltem ÖzdemirAynur TuranRasime Pelin Kavak
-2019-Jul,Case Report,Fracture of the polyethylene tibial post in the posterior-stabilized total knee prosthesis: arthrographic and CT arthrographic diagnosis,Yung HsuChien-Hung LinClement Kuen-Huang Chen
-2019-Jul,Case Report,Adjuvant MRI-guided percutaneous cryoablation treatment for aneurysmal bone cyst,Jan FritzLena SonnowCarol D. Morris
-2019-Jul,Browser's Notes,Browser’s Notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2019-Jul,Review Article,Surgical management of patellofemoral instability part 2: post-operative imaging,"Neeraj Purohit,Nicholas Hancock,Asif Saifuddin",Neeraj Purohit,Asif Saifuddin
+2019-Jul,Review Article,Magnetic resonance imaging of subchondral insufficiency fractures of the lower limb,"Sangoh Lee,Asif Saifuddin",Sangoh Lee,Asif Saifuddin
+2019-Jul,Scientific Article,Assessing the effects of long-term osteoporosis treatment by using conventional spine radiographs: results from a pilot study in a sub-cohort of a large randomized controlled trial,"Hans Peter Dimai,Richard Ljuhar,Astrid Fahrleitner-Pammer",Hans Peter Dimai,Astrid Fahrleitner-Pammer
+2019-Jul,Scientific Article,Preliminary validation of the Simplified Psoriatic Arthritis Radiographic Score (SPARS),"Fausto Salaffi,Marina Carotti,Andrea Giovagnoni",Fausto Salaffi,Andrea Giovagnoni
+2019-Jul,Scientific Article,B-cell peripheral neurolymphomatosis: MRI and 18F-FDG PET/CT imaging characteristics,"Anthony H. De,Vries,Benjamin M. Howe,Stephen M. Broski",Anthony H. De,Stephen M. Broski
+2019-Jul,Scientific Article,Does facet tropism negatively affect the response to transforaminal epidural steroid injections? A prospective clinical study,"Alp Eren Celenlıoglu,Savas Sencan,Osman Hakan Gunduz",Alp Eren Celenlıoglu,Osman Hakan Gunduz
+2019-Jul,Scientific Article,"Soft tissue aneurysmal bone cyst: six new cases with imaging details, molecular pathology, and review of the literature","Wangzhao Song,Albert J. H. Suurmeijer,Herman M. Kroon",Wangzhao Song,Herman M. Kroon
+2019-Jul,Scientific Article,The lateral joint space width can be measured reliably with Telos valgus stress radiography in medial knee osteoarthritis,"Daan Koppens,Ole Gade Sørensen,Torben Bæk Hansen",Daan Koppens,Torben Bæk Hansen
+2019-Jul,Scientific Article,MRI of a painful carpal boss: variations at the extensor carpi radialis brevis insertion and imaging findings in regional traumatic and overuse injuries,"Mika T. Nevalainen,Johannes B. Roedl,Adam C. Zoga",Mika T. Nevalainen,Adam C. Zoga
+2019-Jul,Scientific Article,Maturation-dependent findings in the shoulders of pediatric baseball players on magnetic resonance imaging,"Jie C. Nguyen,Bin Lin,Hollis G. Potter",Jie C. Nguyen,Hollis G. Potter
+2019-Jul,Scientific Article,Characterization of glenoid bone remodeling in professional baseball pitchers,"Jonathan Rassi,Naveen Subhas,Joshua Polster",Jonathan Rassi,Joshua Polster
+2019-Jul,Perspective,Three approaches to full-spine radiograph measurement reporting,"Takashi Takahashi,David Polly,Christopher T. Martin",Takashi Takahashi,Christopher T. Martin
+2019-Jul,Technical Report,Technically successful ultrasound-guided percutaneous sural nerve needle biopsy in a patient with indeterminate peripheral neuropathy,"Michael C. Forney,Xin Li,Murali Sundaram",Michael C. Forney,Murali Sundaram
+2019-Jul,Technical Report,Optimizing methods to quantify intramuscular fat in rotator cuff tears with normalization,"Paul S. Micevych,Ankur Garg,Amee L. Seitz",Paul S. Micevych,Amee L. Seitz
+2019-Jul,Case Report,Medial iliac stress fractures in athletes: report of two rare cases: review of literature and clinical recommendations,"Kenneth Vitale,Edward Smitaman,Brady K. Huang",Kenneth Vitale,Brady K. Huang
+2019-Jul,Case Report,Osteomyelitis of a sacral neurocentral synchondrosis: a case report of another metaphyseal equivalent,"Osamu Miyazaki,Mikiko Miyasaka,Shunsuke Nosaka",Osamu Miyazaki,Shunsuke Nosaka
+2019-Jul,Case Report,"Posterior dislocation of the long head biceps tendon: a case report, specific radiographic finding, and review of the literature","Peter Moreau,Michael Bresler,Winnie A. Mar",Peter Moreau,Winnie A. Mar
+2019-Jul,Case Report,Ulnar hemimelia: a report of four cases,"Meltem Özdemir,Aynur Turan,Rasime Pelin Kavak",Meltem Özdemir,Rasime Pelin Kavak
+2019-Jul,Case Report,Fracture of the polyethylene tibial post in the posterior-stabilized total knee prosthesis: arthrographic and CT arthrographic diagnosis,"Yung Hsu,Chien-Hung Lin,Clement Kuen-Huang Chen",Yung Hsu,Clement Kuen-Huang Chen
+2019-Jul,Case Report,Adjuvant MRI-guided percutaneous cryoablation treatment for aneurysmal bone cyst,"Jan Fritz,Lena Sonnow,Carol D. Morris",Jan Fritz,Carol D. Morris
+2019-Jul,Browser's Notes,Browser’s Notes,,,

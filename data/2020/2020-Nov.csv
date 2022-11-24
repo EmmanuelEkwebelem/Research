@@ -1,25 +1,25 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2020-Nov,Review Article,"A comprehensive review of the normal, abnormal, and post-operative MRI appearance of the distal biceps brachii",My-Linh NguyenJeffrey RosenthalAdam Singer
-2020-Nov,Review Article,Osteoid osteoma of the hip: imaging features,Jacques MalghemFrederic LecouvetBruno Vande Berg
-2020-Nov,Scientific Article,Pilot study to differentiate lipoma from atypical lipomatous tumour/well-differentiated liposarcoma using MR radiomics-based texture analysis,Ian PressneyMichael KhooPaul O’Donnell
-2020-Nov,Scientific Article,Society of skeletal radiology member utilization and performance of whole-body MRI in adults,Jacob M. FeldhausHillary W. GarnerDaniel E. Wessell
-2020-Nov,Scientific Article,18F-fluorodeoxyglucose positron emission tomography/computed tomography in the evaluation of spinal giant cell tumors,Le SongSongbo HanLiang Jiang
-2020-Nov,Scientific Article,Hip abductor tears in ischiofemoral impingement,Arvin B. KheterpalJoel P. HarveyMiriam A. Bredella
-2020-Nov,Scientific Article,"Intervertebral disc degeneration associated with vertebral marrow fat, assessed using quantitative magnetic resonance imaging",Yayun JiWeifeng HongLiheng Ma
-2020-Nov,Scientific Article,The anterolateral ligament in acute knee trauma: patterns of injury on MR imaging,Luke LintinRajat ChowdhuryDavid McKean
-2020-Nov,Scientific Article,Radiographic characteristics of the hip joint in skeletally mature patients with multiple hereditary exostoses,Kazu MatsumotoHiroyasu OgawaHaruhiko Akiyama
-2020-Nov,Scientific Article,Diagnostic performance of open MRI in the flexed knee position for the detection of medial meniscus ramp lesions,Yuki OkazakiTakayuki FurumatsuToshifumi Ozaki
-2020-Nov,Scientific Article,Comparison of post-operative pain scores and opioid use between kyphoplasty and radiofrequency ablation (RFA) systems combined with cement augmentation,Sumit JainLogan KinchMagdalena Anitescu
-2020-Nov,Scientific Article,The diagnostic value of ultrasound and shear wave elastography in the differentiation of benign and malignant soft tissue tumors,Mesut OzturkMustafa Bekir SelcukYakup Sancar Baris
-2020-Nov,Scientific Article,Popliteal lymph nodes in patients with osteosarcoma: are they metastatic?,Mark X. ClearyLaura M. FayadShivani Ahlawat
-2020-Nov,Scientific Article,Differentiating epidural fibrosis from disc herniation on contrast-enhanced and unenhanced MRI in the postoperative lumbar spine,Zita PassavantiSebastian LeschkaTobias Johannes Dietrich
-2020-Nov,Scientific Article,Soft tissue sarcoma: can dynamic contrast-enhanced (DCE) MRI be used to predict the histological grade?,Xiangwen LiQimeng WangShaowu Wang
-2020-Nov,Scientific Article,Muscle activities during shoulder internal rotation differ in arm position: a preliminary quantitative analysis using positron emission tomography,Gaku MatsuzawaHirotaka SanoEiji Itoi
-2020-Nov,Scientific Article,Association of aspirin and other non-steroidal anti-inflammatory drugs with bleeding complications in image-guided musculoskeletal biopsies,Eddy Zandee van RillandStanley KimJim S. Wu
-2020-Nov,Technical Report,Ultrasound-guided muscle biopsy: a practical alternative for investigation of myopathy,Anish RaithathaMohammad Reza AshraghiDimitri Amiras
-2020-Nov,Test Yourself: Question,21 year old male with atraumatic right hip pain,Leon SergotSian DaviesJulian Chakraverty
-2020-Nov,Case Report,Solitary fibrous tumor of bone developing lung metastases on long-term follow-up,Cassie JiaJulia CrimLester J. Layfield
-2020-Nov,Case Report,Fractured aluminum nasopharyngeal swab during drive-through testing for COVID-19: radiographic detection of a retained foreign body,Antoine AzarDaniel E. WessellLeslie V. Simon
-2020-Nov,Case Report,Concomitant calciphylaxis and COVID-19 associated thrombotic retiform purpura,Jessica A. RotmanKathryn E. DeanRoger J. Bartolotta
-2020-Nov,Test Yourself: Answer,A 21-year-old male with atraumatic right hip pain: diagnosis and discussion,Leon SergotSian DaviesJulian Chakraverty
-2020-Nov,Browser's Notes,Browser’s Notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2020-Nov,Review Article,"A comprehensive review of the normal, abnormal, and post-operative MRI appearance of the distal biceps brachii","My-Linh Nguyen,Jeffrey Rosenthal,Adam Singer",My-Linh Nguyen,Adam Singer
+2020-Nov,Review Article,Osteoid osteoma of the hip: imaging features,"Jacques Malghem,Frederic Lecouvet,Bruno Vande Berg",Jacques Malghem,Bruno Vande Berg
+2020-Nov,Scientific Article,Pilot study to differentiate lipoma from atypical lipomatous tumour/well-differentiated liposarcoma using MR radiomics-based texture analysis,"Ian Pressney,Michael Khoo,Paul O’Donnell",Ian Pressney,Paul O’Donnell
+2020-Nov,Scientific Article,Society of skeletal radiology member utilization and performance of whole-body MRI in adults,"Jacob M. Feldhaus,Hillary W. Garner,Daniel E. Wessell",Jacob M. Feldhaus,Daniel E. Wessell
+2020-Nov,Scientific Article,18F-fluorodeoxyglucose positron emission tomography/computed tomography in the evaluation of spinal giant cell tumors,"Le Song,Songbo Han,Liang Jiang",Le Song,Liang Jiang
+2020-Nov,Scientific Article,Hip abductor tears in ischiofemoral impingement,"Arvin B. Kheterpal,Joel P. Harvey,Miriam A. Bredella",Arvin B. Kheterpal,Miriam A. Bredella
+2020-Nov,Scientific Article,"Intervertebral disc degeneration associated with vertebral marrow fat, assessed using quantitative magnetic resonance imaging","Yayun Ji,Weifeng Hong,Liheng Ma",Yayun Ji,Liheng Ma
+2020-Nov,Scientific Article,The anterolateral ligament in acute knee trauma: patterns of injury on MR imaging,"Luke Lintin,Rajat Chowdhury,David Mc,Kean",Luke Lintin,Kean
+2020-Nov,Scientific Article,Radiographic characteristics of the hip joint in skeletally mature patients with multiple hereditary exostoses,"Kazu Matsumoto,Hiroyasu Ogawa,Haruhiko Akiyama",Kazu Matsumoto,Haruhiko Akiyama
+2020-Nov,Scientific Article,Diagnostic performance of open MRI in the flexed knee position for the detection of medial meniscus ramp lesions,"Yuki Okazaki,Takayuki Furumatsu,Toshifumi Ozaki",Yuki Okazaki,Toshifumi Ozaki
+2020-Nov,Scientific Article,Comparison of post-operative pain scores and opioid use between kyphoplasty and radiofrequency ablation (RFA) systems combined with cement augmentation,"Sumit Jain,Logan Kinch,Magdalena Anitescu",Sumit Jain,Magdalena Anitescu
+2020-Nov,Scientific Article,The diagnostic value of ultrasound and shear wave elastography in the differentiation of benign and malignant soft tissue tumors,"Mesut Ozturk,Mustafa Bekir Selcuk,Yakup Sancar Baris",Mesut Ozturk,Yakup Sancar Baris
+2020-Nov,Scientific Article,Popliteal lymph nodes in patients with osteosarcoma: are they metastatic?,"Mark X. Cleary,Laura M. Fayad,Shivani Ahlawat",Mark X. Cleary,Shivani Ahlawat
+2020-Nov,Scientific Article,Differentiating epidural fibrosis from disc herniation on contrast-enhanced and unenhanced MRI in the postoperative lumbar spine,"Zita Passavanti,Sebastian Leschka,Tobias Johannes Dietrich",Zita Passavanti,Tobias Johannes Dietrich
+2020-Nov,Scientific Article,Soft tissue sarcoma: can dynamic contrast-enhanced (DCE) MRI be used to predict the histological grade?,"Xiangwen Li,Qimeng Wang,Shaowu Wang",Xiangwen Li,Shaowu Wang
+2020-Nov,Scientific Article,Muscle activities during shoulder internal rotation differ in arm position: a preliminary quantitative analysis using positron emission tomography,"Gaku Matsuzawa,Hirotaka Sano,Eiji Itoi",Gaku Matsuzawa,Eiji Itoi
+2020-Nov,Scientific Article,Association of aspirin and other non-steroidal anti-inflammatory drugs with bleeding complications in image-guided musculoskeletal biopsies,"Eddy Zandee van Rilland,Stanley Kim,Jim S. Wu",Eddy Zandee van Rilland,Jim S. Wu
+2020-Nov,Technical Report,Ultrasound-guided muscle biopsy: a practical alternative for investigation of myopathy,"Anish Raithatha,Mohammad Reza Ashraghi,Dimitri Amiras",Anish Raithatha,Dimitri Amiras
+2020-Nov,Test Yourself: Question,21 year old male with atraumatic right hip pain,"Leon Sergot,Sian Davies,Julian Chakraverty",Leon Sergot,Julian Chakraverty
+2020-Nov,Case Report,Solitary fibrous tumor of bone developing lung metastases on long-term follow-up,"Cassie Jia,Julia Crim,Lester J. Layfield",Cassie Jia,Lester J. Layfield
+2020-Nov,Case Report,Fractured aluminum nasopharyngeal swab during drive-through testing for COVID-19: radiographic detection of a retained foreign body,"Antoine Azar,Daniel E. Wessell,Leslie V. Simon",Antoine Azar,Leslie V. Simon
+2020-Nov,Case Report,Concomitant calciphylaxis and COVID-19 associated thrombotic retiform purpura,"Jessica A. Rotman,Kathryn E. Dean,Roger J. Bartolotta",Jessica A. Rotman,Roger J. Bartolotta
+2020-Nov,Test Yourself: Answer,A 21-year-old male with atraumatic right hip pain: diagnosis and discussion,"Leon Sergot,Sian Davies,Julian Chakraverty",Leon Sergot,Julian Chakraverty
+2020-Nov,Browser's Notes,Browser’s Notes,,,

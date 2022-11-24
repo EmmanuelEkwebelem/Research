@@ -1,23 +1,23 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2018-Jan,Meeting Review,Highlights of the annual scientific meeting of the 24th congress of the European Society of Musculoskeletal Radiology (ESSR) 2017,Carmelo MessinaLuca Maria SconfienzaGiuseppe Guglielmi
-2018-Jan,Correction,Correction to: Highlights of the annual scientific meeting of the 24th congress of the European Society of Musculoskeletal Radiology (ESSR) 2017,Carmelo MessinaLuca Maria SconfienzaGiuseppe Guglielmi
-2018-Jan,Review Article,Anterior cervical discectomy and fusion: review and update for radiologists,Kimia Khalatbari KaniFelix S. Chew
-2018-Jan,Scientific Article,Assessment of hindfoot alignment using MRI and standing hindfoot alignment radiographs (Saltzman view),Nydia BüberMarco ZanettiNadja Saupe
-2018-Jan,Scientific Article,Reliability of standing weight-bearing (0.25T) MR imaging findings and positional changes in the lumbar spine,Bjarke B. HansenPhilip HansenMikael Boesen
-2018-Jan,Scientific Article,Is lead shielding of patients necessary during fluoroscopic procedures? A study based on kyphoplasty,Joshua R. SmithRebecca M. MarshMichael S. Silosky
-2018-Jan,Scientific Article,Imaging features of glenoid bare spot in a pediatric population,Sahlya DjebbarZehava Sadka RosenbergIgnacio Rossi
-2018-Jan,Scientific Article,Combined classical spindle cell/pleomorphic lipoma spectrum imaging and clinical data,Yara YounanAnthony MartinezAdam D. Singer
-2018-Jan,Scientific Article,Spontaneous shrinkage of solitary osteochondromas,Hisaki AibaSatoshi YamadaTakanobu Otsuka
-2018-Jan,Scientific Article,Osseous spurs at the fovea capitis femoris—a frequent finding in asymptomatic volunteers,Susanne BenslerChristoph A. AgtenReto Sutter
-2018-Jan,Scientific Article,Southwick angle measurements and SCFE slip severity classifications are affected by frog-lateral positioning,Carly E. JonesAnthony P. CooperAgnes G. d’Entremont
-2018-Jan,Scientific Article,Imaging characteristics of subcutaneous amyloid deposits in diabetic patients: the “insulin ball”,Noriko TanioTaiki NozakiKoyu Suzuki
-2018-Jan,Scientific Article,Conservatively treated knee injury is associated with knee cartilage matrix degeneration measured with MRI-based T2 relaxation times: data from the osteoarthritis initiative,Felix C. HofmannJan NeumannThomas M. Link
-2018-Jan,Scientific Article,Comparison of a fast 5-min knee MRI protocol with a standard knee MRI protocol: a multi-institutional multi-reader study,Erin FitzGerald AlaiaAlex BenedickNaveen Subhas
-2018-Jan,Test Yourself: Question,Slowly growing mass on the left shoulder,Wayne B. Cohen-LevyJean JoseJuan Pretell-Mazzini
-2018-Jan,Case Report,Pitfalls in soft tissue sarcoma imaging: chronic expanding hematomas,Kiarash JahedBehnaz KhazaiAdam D. Singer
-2018-Jan,Case Report,Multiple skeletal muscle metastases revealing a cardiac intimal sarcoma,Amandine CrombéPierre-François LintingreBenjamin Dallaudière
-2018-Jan,Case Report,Intraosseous migration of tendinous calcifications: two case reports,A. MarinettiM. SessaS. W. Della Sala
-2018-Jan,Case Report,Subfascial fat herniation: sonographic features of back mice,Christin A. Tiegs-HeidenNaveen S. MurthyJohn A. Skinner
-2018-Jan,Case Report,"Undifferentiated pleomorphic sarcoma: indolent, tail-like recurrence of a high-grade tumor",Justin S. AlpertPatrick BolandDavid M. Panicek
-2018-Jan,Test Yourself: Answer,Slowly growing mass on the left shoulder,Wayne B. Cohen-LevyJean JoseJuan Pretell-Mazzini
-2018-Jan,Browser's Notes,Browser’s notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2018-Jan,Meeting Review,Highlights of the annual scientific meeting of the 24th congress of the European Society of Musculoskeletal Radiology (ESSR) 2017,"Carmelo Messina,Luca Maria Sconfienza,Giuseppe Guglielmi",Carmelo Messina,Giuseppe Guglielmi
+2018-Jan,Correction,Correction to: Highlights of the annual scientific meeting of the 24th congress of the European Society of Musculoskeletal Radiology (ESSR) 2017,"Carmelo Messina,Luca Maria Sconfienza,Giuseppe Guglielmi",Carmelo Messina,Giuseppe Guglielmi
+2018-Jan,Review Article,Anterior cervical discectomy and fusion: review and update for radiologists,"Kimia Khalatbari Kani,Felix S. Chew",Kimia Khalatbari Kani,Felix S. Chew
+2018-Jan,Scientific Article,Assessment of hindfoot alignment using MRI and standing hindfoot alignment radiographs (Saltzman view),"Nydia Büber,Marco Zanetti,Nadja Saupe",Nydia Büber,Nadja Saupe
+2018-Jan,Scientific Article,Reliability of standing weight-bearing (0.25T) MR imaging findings and positional changes in the lumbar spine,"Bjarke B. Hansen,Philip Hansen,Mikael Boesen",Bjarke B. Hansen,Mikael Boesen
+2018-Jan,Scientific Article,Is lead shielding of patients necessary during fluoroscopic procedures? A study based on kyphoplasty,"Joshua R. Smith,Rebecca M. Marsh,Michael S. Silosky",Joshua R. Smith,Michael S. Silosky
+2018-Jan,Scientific Article,Imaging features of glenoid bare spot in a pediatric population,"Sahlya Djebbar,Zehava Sadka Rosenberg,Ignacio Rossi",Sahlya Djebbar,Ignacio Rossi
+2018-Jan,Scientific Article,Combined classical spindle cell/pleomorphic lipoma spectrum imaging and clinical data,"Yara Younan,Anthony Martinez,Adam D. Singer",Yara Younan,Adam D. Singer
+2018-Jan,Scientific Article,Spontaneous shrinkage of solitary osteochondromas,"Hisaki Aiba,Satoshi Yamada,Takanobu Otsuka",Hisaki Aiba,Takanobu Otsuka
+2018-Jan,Scientific Article,Osseous spurs at the fovea capitis femoris—a frequent finding in asymptomatic volunteers,"Susanne Bensler,Christoph A. Agten,Reto Sutter",Susanne Bensler,Reto Sutter
+2018-Jan,Scientific Article,Southwick angle measurements and SCFE slip severity classifications are affected by frog-lateral positioning,"Carly E. Jones,Anthony P. Cooper,Agnes G. d’Entremont",Carly E. Jones,Agnes G. d’Entremont
+2018-Jan,Scientific Article,Imaging characteristics of subcutaneous amyloid deposits in diabetic patients: the “insulin ball”,"Noriko Tanio,Taiki Nozaki,Koyu Suzuki",Noriko Tanio,Koyu Suzuki
+2018-Jan,Scientific Article,Conservatively treated knee injury is associated with knee cartilage matrix degeneration measured with MRI-based T2 relaxation times: data from the osteoarthritis initiative,"Felix C. Hofmann,Jan Neumann,Thomas M. Link",Felix C. Hofmann,Thomas M. Link
+2018-Jan,Scientific Article,Comparison of a fast 5-min knee MRI protocol with a standard knee MRI protocol: a multi-institutional multi-reader study,"Erin Fitz,Gerald Alaia,Alex Benedick,Naveen Subhas",Erin Fitz,Naveen Subhas
+2018-Jan,Test Yourself: Question,Slowly growing mass on the left shoulder,"Wayne B. Cohen-Levy,Jean Jose,Juan Pretell-Mazzini",Wayne B. Cohen-Levy,Juan Pretell-Mazzini
+2018-Jan,Case Report,Pitfalls in soft tissue sarcoma imaging: chronic expanding hematomas,"Kiarash Jahed,Behnaz Khazai,Adam D. Singer",Kiarash Jahed,Adam D. Singer
+2018-Jan,Case Report,Multiple skeletal muscle metastases revealing a cardiac intimal sarcoma,"Amandine CrombéPierre-François Lintingre,Benjamin Dallaudière",Amandine CrombéPierre-François Lintingre,Benjamin Dallaudière
+2018-Jan,Case Report,Intraosseous migration of tendinous calcifications: two case reports,"A. Marinetti,M. Sessa,S. W. Della Sala",A. Marinetti,S. W. Della Sala
+2018-Jan,Case Report,Subfascial fat herniation: sonographic features of back mice,"Christin A. Tiegs-Heiden,Naveen S. Murthy,John A. Skinner",Christin A. Tiegs-Heiden,John A. Skinner
+2018-Jan,Case Report,"Undifferentiated pleomorphic sarcoma: indolent, tail-like recurrence of a high-grade tumor","Justin S. Alpert,Patrick Boland,David M. Panicek",Justin S. Alpert,David M. Panicek
+2018-Jan,Test Yourself: Answer,Slowly growing mass on the left shoulder,"Wayne B. Cohen-Levy,Jean Jose,Juan Pretell-Mazzini",Wayne B. Cohen-Levy,Juan Pretell-Mazzini
+2018-Jan,Browser's Notes,Browser’s notes,,,

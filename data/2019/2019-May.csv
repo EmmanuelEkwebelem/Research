@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2019-May,Review Article,Whole-body MRI and pathological findings in adult patients with myopathies,Xavier TomasJose Cesar MilisendaJosep Maria Grau-Junyent
-2019-May,Review Article,MRI and ultrasound of the hands and wrists in rheumatoid arthritis. I. Imaging findings,David A. Rubin
-2019-May,Perspective,Perspective from a pediatric orthopedic deformity surgeon,Brian E. Grottkau
-2019-May,Scientific Article,Pseudoaneurysm after total knee arthroplasty: imaging findings in 7 patients,Steven P. DanielsDarryl B. SneagYoshimi Endo
-2019-May,Scientific Article,3D hindfoot alignment measurements based on low-dose biplanar radiographs: a clinical feasibility study,Andrea B. RosskopfReto SutterFlorian M. Buck
-2019-May,Scientific Article,Clinical and patient-reported outcomes after image-guided intra-articular therapeutic hip injections for osteoarthritis-related hip pain: a retrospective study,William R. WalterCraig BearisonSoterios Gyftopoulos
-2019-May,Scientific Article,Susceptibility-weighted MR imaging to improve the specificity of erosion detection: a prospective feasibility study in hand arthritis,Sevtap Tugce UlasTorsten DiekhoffMarcus Richard Makowski
-2019-May,Scientific Article,Magnetic resonance imaging appearances of the capsulo-osseous layer of the iliotibial band and femoral attachments of the iliotibial band in the normal and pivot-shift ACL injured knee,Monica KhannaChimnay GupteMiny Walker
-2019-May,Scientific Article,Dynamic ultrasound in the evaluation of patients with suspected slipping rib syndrome,Dane Van TasselLisa E. McMahonCraig E. Barnes
-2019-May,Scientific Article,T2 mapping of cartilage and menisci at 3T in healthy subjects with knee malalignment: initial experience,Jiangtao ZhuNingfan HuLigong Wang
-2019-May,Scientific Article,Aneurysmal bone cyst treated with percutaneous doxycycline: is a single treatment sufficient?,Jason T. K. WoonDamien HoonAnthony J. Doyle
-2019-May,Scientific Article,Value of low-dose whole-body CT in the management of patients with multiple myeloma and precursor states,F. Joseph SimeoneJoel P. HarveyMiriam A. Bredella
-2019-May,Scientific Article,"Subacromial impingement anatomy and its association with rotator cuff pathology in women: radiograph and MRI correlation, a retrospective evaluation",Chayanit SasipongananRiham DessoukyAvneesh Chhabra
-2019-May,Technical Report,A prototype assembled 3D-printed phantom of the glenohumeral joint for fluoroscopic-guided shoulder arthrography,Ramin JavanAmy L. EllenbogenShawn Haji-Momenian
-2019-May,Test Yourself: Question,Painful right elbow mass,Veronica AttardAsif Saifuddin
-2019-May,Case Report,Partial anterior tunnel syndrome: a retrospective analysis of ultrasound findings in four surgically proven cases,Stefano BianchiLaure DrozMarino Delmi
-2019-May,Case Report,Bone metastases with multiple fluid-fluid levels from gastric cancer: a case report and review of literature,Min ChenHuishu Yuan
-2019-May,Case Report,Alkaptonuria—an atypical case: multi-modality imaging review,Dillibabu EthirajVenkatraman IndiranM. Prabakaran
-2019-May,Case Report,Surface-type chondromyxoid fibroma in an elderly patient: a case report and literature review,Kate Anne HarringtonSyed HodaRenata La Rocca Vieira
-2019-May,Test Yourself: Answer,Painful right elbow mass,Veronica AttardAsif Saifuddin
-2019-May,Browser's Notes,Browser’s notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2019-May,Review Article,Whole-body MRI and pathological findings in adult patients with myopathies,"Xavier Tomas,Jose Cesar Milisenda,Josep Maria Grau-Junyent",Xavier Tomas,Josep Maria Grau-Junyent
+2019-May,Review Article,MRI and ultrasound of the hands and wrists in rheumatoid arthritis. I. Imaging findings,David A. Rubin,David A. Rubin,David A. Rubin
+2019-May,Perspective,Perspective from a pediatric orthopedic deformity surgeon,Brian E. Grottkau,Brian E. Grottkau,Brian E. Grottkau
+2019-May,Scientific Article,Pseudoaneurysm after total knee arthroplasty: imaging findings in 7 patients,"Steven P. Daniels,Darryl B. Sneag,Yoshimi Endo",Steven P. Daniels,Yoshimi Endo
+2019-May,Scientific Article,3D hindfoot alignment measurements based on low-dose biplanar radiographs: a clinical feasibility study,"Andrea B. Rosskopf,Reto Sutter,Florian M. Buck",Andrea B. Rosskopf,Florian M. Buck
+2019-May,Scientific Article,Clinical and patient-reported outcomes after image-guided intra-articular therapeutic hip injections for osteoarthritis-related hip pain: a retrospective study,"William R. Walter,Craig Bearison,Soterios Gyftopoulos",William R. Walter,Soterios Gyftopoulos
+2019-May,Scientific Article,Susceptibility-weighted MR imaging to improve the specificity of erosion detection: a prospective feasibility study in hand arthritis,"Sevtap Tugce Ulas,Torsten Diekhoff,Marcus Richard Makowski",Sevtap Tugce Ulas,Marcus Richard Makowski
+2019-May,Scientific Article,Magnetic resonance imaging appearances of the capsulo-osseous layer of the iliotibial band and femoral attachments of the iliotibial band in the normal and pivot-shift ACL injured knee,"Monica Khanna,Chimnay Gupte,Miny Walker",Monica Khanna,Miny Walker
+2019-May,Scientific Article,Dynamic ultrasound in the evaluation of patients with suspected slipping rib syndrome,"Dane Van Tassel,Lisa E. Mc,Mahon,Craig E. Barnes",Dane Van Tassel,Craig E. Barnes
+2019-May,Scientific Article,T2 mapping of cartilage and menisci at 3T in healthy subjects with knee malalignment: initial experience,"Jiangtao Zhu,Ningfan Hu,Ligong Wang",Jiangtao Zhu,Ligong Wang
+2019-May,Scientific Article,Aneurysmal bone cyst treated with percutaneous doxycycline: is a single treatment sufficient?,"Jason T. K. Woon,Damien Hoon,Anthony J. Doyle",Jason T. K. Woon,Anthony J. Doyle
+2019-May,Scientific Article,Value of low-dose whole-body CT in the management of patients with multiple myeloma and precursor states,"F. Joseph Simeone,Joel P. Harvey,Miriam A. Bredella",F. Joseph Simeone,Miriam A. Bredella
+2019-May,Scientific Article,"Subacromial impingement anatomy and its association with rotator cuff pathology in women: radiograph and MRI correlation, a retrospective evaluation","Chayanit Sasiponganan,Riham Dessouky,Avneesh Chhabra",Chayanit Sasiponganan,Avneesh Chhabra
+2019-May,Technical Report,A prototype assembled 3D-printed phantom of the glenohumeral joint for fluoroscopic-guided shoulder arthrography,"Ramin Javan,Amy L. Ellenbogen,Shawn Haji-Momenian",Ramin Javan,Shawn Haji-Momenian
+2019-May,Test Yourself: Question,Painful right elbow mass,"Veronica Attard,Asif Saifuddin",Veronica Attard,Asif Saifuddin
+2019-May,Case Report,Partial anterior tunnel syndrome: a retrospective analysis of ultrasound findings in four surgically proven cases,"Stefano Bianchi,Laure Droz,Marino Delmi",Stefano Bianchi,Marino Delmi
+2019-May,Case Report,Bone metastases with multiple fluid-fluid levels from gastric cancer: a case report and review of literature,"Min Chen,Huishu Yuan",Min Chen,Huishu Yuan
+2019-May,Case Report,Alkaptonuria—an atypical case: multi-modality imaging review,"Dillibabu Ethiraj,Venkatraman Indiran,M. Prabakaran",Dillibabu Ethiraj,M. Prabakaran
+2019-May,Case Report,Surface-type chondromyxoid fibroma in an elderly patient: a case report and literature review,"Kate Anne Harrington,Syed Hoda,Renata La Rocca Vieira",Kate Anne Harrington,Renata La Rocca Vieira
+2019-May,Test Yourself: Answer,Painful right elbow mass,"Veronica Attard,Asif Saifuddin",Veronica Attard,Asif Saifuddin
+2019-May,Browser's Notes,Browser’s notes,,,

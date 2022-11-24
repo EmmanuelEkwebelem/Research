@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2019-Aug,Skeletal Radiology: The Year in Review,Skeletal Radiology: The Year in Review 2018,Mark J. KransdorfThomas M. LinkDaniel I. Rosenthal
-2019-Aug,Review Article,Thermal ablation to relieve pain from metastatic bone disease: a systematic review,Nicolò GennaroLuca Maria SconfienzaEzio Lanza
-2019-Aug,Review Article,"Adhesive capsulitis: review of imaging findings, pathophysiology, clinical presentation, and treatment options",Brandon K. K. FieldsMatthew R. SkalskiGeorge R. Matcuk Jr
-2019-Aug,Scientific Article,Incidence of gadolinium or fluid signal within surgically proven glenoid labral tears at MR arthrography,Nicholas C. NaceyMichael G. FoxDavid R. Diduch
-2019-Aug,Scientific Article,Volume of hip synovitis detected on contrast-enhanced magnetic resonance imaging is associated with disease severity after collapse in osteonecrosis of the femoral head,Hiroyuki HatanakaGoro MotomuraYasuharu Nakashima
-2019-Aug,Scientific Article,Clinical and radiological findings in Brazilian patients with mucolipidosis types II/III,José Ricardo Magliocco CeroniGustavo Marquezani SpoladorChong Ae Kim
-2019-Aug,Scientific Article,Muscle shear wave elastography in idiopathic inflammatory myopathies: a case–control study with MRI correlation,Abdulrahman M. AlfuraihPhilip O’ConnorRichard J. Wakefield
-2019-Aug,Scientific Article,Anatomical variations related to pathological conditions of the peroneal tendon: evaluation of ankle MRI with a 3D SPACE sequence in symptomatic patients,Elif ErsozNil TokgozMurat Ucar
-2019-Aug,Scientific Article,Bennett lesions in overhead athletes and associated shoulder abnormalities on MRI,Jenika KarcichJonathan K. KazamTony T. Wong
-2019-Aug,Scientific Article,Shear-wave elastography of the ulnar collateral ligament of the elbow in healthy volunteers: a pilot study,Nakul GuptaJohn S. LabisPatrick C. McCulloch
-2019-Aug,Scientific Article,Quantitative magnetic resonance imaging in patellar tendon-lateral femoral condyle friction syndrome: relationship with subtle patellofemoral instability,Jia LiBo ShengHaitao Yang
-2019-Aug,Technical Report,Optimizing radiation dose parameters in MDCT arthrography of the shoulder: illustration of basic concepts in a cadaveric study,Julien AguetFabio BeccePatrick Omoumi
-2019-Aug,Technical Report,Shoulder manipulation under targeted ultrasound-guided rotator interval block for adhesive capsulitis,David McKeanPhilip YoongBernard John McElroy
-2019-Aug,Test Yourself: Question,Test Yourself: Question: “Painless right leg swelling”,K. Aaron ShawJoshua S. MurphyKelley W. Marshall
-2019-Aug,Case Report,Multiple spontaneous tendon ruptures from enthesis failure in primary hyperparathyroidism: a case report and review of imaging findings,Maaz Mohammad SalahYan Rong YongLe Roy Chong
-2019-Aug,Case Report,Selective rickets from localized advanced maturation—a case report,Alan E. Oestreich
-2019-Aug,Case Report,Giant cell reparative granuloma of the scapula: report of a case and literature review,Andrea AngeliniElisa PagliariniPietro Ruggieri
-2019-Aug,Case Report,Osteoma-like melorheostosis: a rare type of skeletal dysplasia depicted on FDG PET/CT,Alain S. Abi-GhanemKarl AsmarSamar Muwakkit
-2019-Aug,Case Report,Primary infectious costochondritis due to Prevotella nigrescens in an immunocompetent patient: clinical and imaging findings,Françoise DerouaneMichel LambertFrédéric E. Lecouvet
-2019-Aug,Test Yourself: Answer,Test yourself: question: “painless right leg swelling”,K. Aaron ShawJoshua S. MurphyKelley W. Marshall
-2019-Aug,Browser’s Notes,Browser’s notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2019-Aug,Skeletal Radiology: The Year in Review,Skeletal Radiology: The Year in Review 2018,"Mark J. Kransdorf,Thomas M. Link,Daniel I. Rosenthal",Mark J. Kransdorf,Daniel I. Rosenthal
+2019-Aug,Review Article,Thermal ablation to relieve pain from metastatic bone disease: a systematic review,"Nicolò Gennaro,Luca Maria Sconfienza,Ezio Lanza",Nicolò Gennaro,Ezio Lanza
+2019-Aug,Review Article,"Adhesive capsulitis: review of imaging findings, pathophysiology, clinical presentation, and treatment options","Brandon K. K. Fields,Matthew R. Skalski,George R. Matcuk Jr",Brandon K. K. Fields,George R. Matcuk Jr
+2019-Aug,Scientific Article,Incidence of gadolinium or fluid signal within surgically proven glenoid labral tears at MR arthrography,"Nicholas C. Nacey,Michael G. Fox,David R. Diduch",Nicholas C. Nacey,David R. Diduch
+2019-Aug,Scientific Article,Volume of hip synovitis detected on contrast-enhanced magnetic resonance imaging is associated with disease severity after collapse in osteonecrosis of the femoral head,"Hiroyuki Hatanaka,Goro Motomura,Yasuharu Nakashima",Hiroyuki Hatanaka,Yasuharu Nakashima
+2019-Aug,Scientific Article,Clinical and radiological findings in Brazilian patients with mucolipidosis types II/III,"José Ricardo Magliocco Ceroni,Gustavo Marquezani Spolador,Chong Ae Kim",José Ricardo Magliocco Ceroni,Chong Ae Kim
+2019-Aug,Scientific Article,Muscle shear wave elastography in idiopathic inflammatory myopathies: a case–control study with MRI correlation,"Abdulrahman M. Alfuraih,Philip O’Connor,Richard J. Wakefield",Abdulrahman M. Alfuraih,Richard J. Wakefield
+2019-Aug,Scientific Article,Anatomical variations related to pathological conditions of the peroneal tendon: evaluation of ankle MRI with a 3D SPACE sequence in symptomatic patients,"Elif Ersoz,Nil Tokgoz,Murat Ucar",Elif Ersoz,Murat Ucar
+2019-Aug,Scientific Article,Bennett lesions in overhead athletes and associated shoulder abnormalities on MRI,"Jenika Karcich,Jonathan K. Kazam,Tony T. Wong",Jenika Karcich,Tony T. Wong
+2019-Aug,Scientific Article,Shear-wave elastography of the ulnar collateral ligament of the elbow in healthy volunteers: a pilot study,"Nakul Gupta,John S. Labis,Patrick C. Mc,Culloch",Nakul Gupta,Culloch
+2019-Aug,Scientific Article,Quantitative magnetic resonance imaging in patellar tendon-lateral femoral condyle friction syndrome: relationship with subtle patellofemoral instability,"Jia Li,Bo Sheng,Haitao Yang",Jia Li,Haitao Yang
+2019-Aug,Technical Report,Optimizing radiation dose parameters in MDCT arthrography of the shoulder: illustration of basic concepts in a cadaveric study,"Julien Aguet,Fabio Becce,Patrick Omoumi",Julien Aguet,Patrick Omoumi
+2019-Aug,Technical Report,Shoulder manipulation under targeted ultrasound-guided rotator interval block for adhesive capsulitis,"David Mc,Kean,Philip Yoong,Bernard John Mc,Elroy",David Mc,Elroy
+2019-Aug,Test Yourself: Question,Test Yourself: Question: “Painless right leg swelling”,"K. Aaron Shaw,Joshua S. Murphy,Kelley W. Marshall",K. Aaron Shaw,Kelley W. Marshall
+2019-Aug,Case Report,Multiple spontaneous tendon ruptures from enthesis failure in primary hyperparathyroidism: a case report and review of imaging findings,"Maaz Mohammad Salah,Yan Rong Yong,Le Roy Chong",Maaz Mohammad Salah,Le Roy Chong
+2019-Aug,Case Report,Selective rickets from localized advanced maturation—a case report,Alan E. Oestreich,Alan E. Oestreich,Alan E. Oestreich
+2019-Aug,Case Report,Giant cell reparative granuloma of the scapula: report of a case and literature review,"Andrea Angelini,Elisa Pagliarini,Pietro Ruggieri",Andrea Angelini,Pietro Ruggieri
+2019-Aug,Case Report,Osteoma-like melorheostosis: a rare type of skeletal dysplasia depicted on FDG PET/CT,"Alain S. Abi-Ghanem,Karl Asmar,Samar Muwakkit",Alain S. Abi-Ghanem,Samar Muwakkit
+2019-Aug,Case Report,Primary infectious costochondritis due to Prevotella nigrescens in an immunocompetent patient: clinical and imaging findings,"Françoise Derouane,Michel Lambert,Frédéric E. Lecouvet",Françoise Derouane,Frédéric E. Lecouvet
+2019-Aug,Test Yourself: Answer,Test yourself: question: “painless right leg swelling”,"K. Aaron Shaw,Joshua S. Murphy,Kelley W. Marshall",K. Aaron Shaw,Kelley W. Marshall
+2019-Aug,Browser’s Notes,Browser’s notes,,,

@@ -4,12 +4,12 @@ import os
 from bs4 import BeautifulSoup
 
 cwd_original = os.getcwd()
-output_files = cwd_original + '/data/2018/2018'
+output_files = cwd_original + '/data/2022/2022'
 
 url_links = []
 issue = 1
 while issue != 13:
-    url = f"https://link.springer.com/journal/256/volumes-and-issues/47-{issue}"
+    url = f"https://link.springer.com/journal/256/volumes-and-issues/51-{issue}"
     issue = issue + 1
     url_links.append(url)
  
@@ -49,7 +49,10 @@ for link in range(len(url_links)):
     list1 = Titles 
     list2 = Authors
     df = pandas.DataFrame({'Article Class': pandas.Series(list0), 'Article Titles': pandas.Series(list1), 'List of Article Author Names': pandas.Series(list2)})
-
+    
+    df['List of Article Author Names'] = df['List of Article Author Names'].replace(r'(([a-z])([A-Z]))', r'\2,\3', regex=True)
+    df['First Author'] = df['List of Article Author Names'].str.rsplit(',').str[0] 
+    df['Last Author'] = df['List of Article Author Names'].str.rsplit(',').str[-1] 
     
     df.to_csv(output_files + dates[link] + '.csv', index=False) 
     print('...finished with link: ' + url_links[link])

@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2020-Aug,Skeletal Radiology: The Year in Review,Skeletal Radiology: the year in review 2019,Mark J. KransdorfThomas M. LinkValerie A. Fitzhugh
-2020-Aug,Review Article,"Temporomandibular joint imaging: current clinical applications, biochemical comparison with the intervertebral disc and knee meniscus, and opportunities for advancement",Fardad BehzadiJacob C. MandellJeffrey P. Guenette
-2020-Aug,Review Article,Surgical techniques for management of acromioclavicular joint separations: review and update for radiologists,Kimia Khalatbari KaniJack A. PorrinoFelix S. Chew
-2020-Aug,Scientific Article,Deep convolutional neural network-based detection of meniscus tears: comparison with radiologists and surgery as standard of reference,Benjamin FritzGiuseppe MarbachChristian W.A. Pfirrmann
-2020-Aug,Correction,Correction to: Deep convolutional neural network-based detection of meniscus tears: comparison with radiologists and surgery as standard of reference,Benjamin FritzGiuseppe MarbachChristian W.A. Pfirrmann
-2020-Aug,Scientific Article,Is the immediate effect of marathon running on novice runners’ knee joints sustained within 6 months after the run? A follow-up 3.0 T MRI study,Laura Maria HorgaJohann HenckelAlister J. Hart
-2020-Aug,Scientific Article,High school male basketball athletes exhibit greater hamstring muscle stiffness than females as assessed with shear wave elastography,April L. McPhersonTakashi NagaiNathaniel A. Bates
-2020-Aug,Scientific Article,Predicting osteomyelitis in patients whose initial MRI demonstrated bone marrow edema without corresponding T1 signal marrow replacement,Alessandra J. SaxEthan J. HalpernWilliam B. Morrison
-2020-Aug,Scientific Article,The prevalence of athletic pubalgia imaging findings on MRI in patients with femoroacetabular impingement,Sowmya VaradaMatthew P. MoyTony T. Wong
-2020-Aug,Scientific Article,Flat-panel CT arthrography for cartilage defect detection in the ankle joint: first results in vivo,Sarah PaglianoDavid ChemouniThomas Le Corroller
-2020-Aug,Correction,Correction to: Flat-panel CT arthrography for cartilage defect detection in the ankle joint: first results in vivo,Sarah PaglianoDavid ChemouniThomas Le Corroller
-2020-Aug,Scientific Article,Anomalous signal intensity increase on out-of-phase chemical shift imaging: a manifestation of marrow mineralisation?,Niels van VuchtRodney SantiagoAsif Saifuddin
-2020-Aug,Scientific Article,"Association of meniscal flounce in the knee with the pattern and location of meniscal tear, concomitant ligamentous injury, amount of knee joint effusion, and flexion and rotation angles: a magnetic resonance evaluation",Hyo Jin KimJoong Mo AhnHeung-Sik Kang
-2020-Aug,Scientific Article,CT-guided bone marrow aspirations and biopsies: retrospective study and comparison with blind procedures,C. Y. ChangJ. S. HusseiniR. Hasserjian
-2020-Aug,Scientific Article,Isolated septic facet joints: an underdiagnosed distinct clinical entity,Maja BabicHakan IlaslanClaus S. Simpfendorfer
-2020-Aug,Scientific Article,Osteochondral lesion of the talus in children: Are there MRI findings of instability?,Maya PatelMichael L. FrancavillaJie C. Nguyen
-2020-Aug,Technical Report,Ultrasound-guided diagnostic deep peroneal nerve blocks prior to potential neurectomy: a retrospective review,Stephen JohnstonJonathan KrausJohn Symanski
-2020-Aug,Test Yourself: Question,Test yourself question: routine follow up after revision right total hip arthroplasty,Molly B. CarnahanJeremiah R. Long
-2020-Aug,Case Report,Intraosseous gout mimicking giant cell tumor of the patella,Michael K. ChiuNicholas A. Lewis
-2020-Aug,Test Yourself: Answer,Test yourself answer: supra-acetabular pelvis synthetic bone graft substitute (CERAMENT) with expected resorption of radiopaque graft material,Molly B. CarnahanJeremiah R. Long
-2020-Aug,Browser's Notes,Browser's notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2020-Aug,Skeletal Radiology: The Year in Review,Skeletal Radiology: the year in review 2019,"Mark J. Kransdorf,Thomas M. Link,Valerie A. Fitzhugh",Mark J. Kransdorf,Valerie A. Fitzhugh
+2020-Aug,Review Article,"Temporomandibular joint imaging: current clinical applications, biochemical comparison with the intervertebral disc and knee meniscus, and opportunities for advancement","Fardad Behzadi,Jacob C. Mandell,Jeffrey P. Guenette",Fardad Behzadi,Jeffrey P. Guenette
+2020-Aug,Review Article,Surgical techniques for management of acromioclavicular joint separations: review and update for radiologists,"Kimia Khalatbari Kani,Jack A. Porrino,Felix S. Chew",Kimia Khalatbari Kani,Felix S. Chew
+2020-Aug,Scientific Article,Deep convolutional neural network-based detection of meniscus tears: comparison with radiologists and surgery as standard of reference,"Benjamin Fritz,Giuseppe Marbach,Christian W.A. Pfirrmann",Benjamin Fritz,Christian W.A. Pfirrmann
+2020-Aug,Correction,Correction to: Deep convolutional neural network-based detection of meniscus tears: comparison with radiologists and surgery as standard of reference,"Benjamin Fritz,Giuseppe Marbach,Christian W.A. Pfirrmann",Benjamin Fritz,Christian W.A. Pfirrmann
+2020-Aug,Scientific Article,Is the immediate effect of marathon running on novice runners’ knee joints sustained within 6 months after the run? A follow-up 3.0 T MRI study,"Laura Maria Horga,Johann Henckel,Alister J. Hart",Laura Maria Horga,Alister J. Hart
+2020-Aug,Scientific Article,High school male basketball athletes exhibit greater hamstring muscle stiffness than females as assessed with shear wave elastography,"April L. Mc,Pherson,Takashi Nagai,Nathaniel A. Bates",April L. Mc,Nathaniel A. Bates
+2020-Aug,Scientific Article,Predicting osteomyelitis in patients whose initial MRI demonstrated bone marrow edema without corresponding T1 signal marrow replacement,"Alessandra J. Sax,Ethan J. Halpern,William B. Morrison",Alessandra J. Sax,William B. Morrison
+2020-Aug,Scientific Article,The prevalence of athletic pubalgia imaging findings on MRI in patients with femoroacetabular impingement,"Sowmya Varada,Matthew P. Moy,Tony T. Wong",Sowmya Varada,Tony T. Wong
+2020-Aug,Scientific Article,Flat-panel CT arthrography for cartilage defect detection in the ankle joint: first results in vivo,"Sarah Pagliano,David Chemouni,Thomas Le Corroller",Sarah Pagliano,Thomas Le Corroller
+2020-Aug,Correction,Correction to: Flat-panel CT arthrography for cartilage defect detection in the ankle joint: first results in vivo,"Sarah Pagliano,David Chemouni,Thomas Le Corroller",Sarah Pagliano,Thomas Le Corroller
+2020-Aug,Scientific Article,Anomalous signal intensity increase on out-of-phase chemical shift imaging: a manifestation of marrow mineralisation?,"Niels van Vucht,Rodney Santiago,Asif Saifuddin",Niels van Vucht,Asif Saifuddin
+2020-Aug,Scientific Article,"Association of meniscal flounce in the knee with the pattern and location of meniscal tear, concomitant ligamentous injury, amount of knee joint effusion, and flexion and rotation angles: a magnetic resonance evaluation","Hyo Jin Kim,Joong Mo Ahn,Heung-Sik Kang",Hyo Jin Kim,Heung-Sik Kang
+2020-Aug,Scientific Article,CT-guided bone marrow aspirations and biopsies: retrospective study and comparison with blind procedures,"C. Y. Chang,J. S. Husseini,R. Hasserjian",C. Y. Chang,R. Hasserjian
+2020-Aug,Scientific Article,Isolated septic facet joints: an underdiagnosed distinct clinical entity,"Maja Babic,Hakan Ilaslan,Claus S. Simpfendorfer",Maja Babic,Claus S. Simpfendorfer
+2020-Aug,Scientific Article,Osteochondral lesion of the talus in children: Are there MRI findings of instability?,"Maya Patel,Michael L. Francavilla,Jie C. Nguyen",Maya Patel,Jie C. Nguyen
+2020-Aug,Technical Report,Ultrasound-guided diagnostic deep peroneal nerve blocks prior to potential neurectomy: a retrospective review,"Stephen Johnston,Jonathan Kraus,John Symanski",Stephen Johnston,John Symanski
+2020-Aug,Test Yourself: Question,Test yourself question: routine follow up after revision right total hip arthroplasty,"Molly B. Carnahan,Jeremiah R. Long",Molly B. Carnahan,Jeremiah R. Long
+2020-Aug,Case Report,Intraosseous gout mimicking giant cell tumor of the patella,"Michael K. Chiu,Nicholas A. Lewis",Michael K. Chiu,Nicholas A. Lewis
+2020-Aug,Test Yourself: Answer,Test yourself answer: supra-acetabular pelvis synthetic bone graft substitute (CERAMENT) with expected resorption of radiopaque graft material,"Molly B. Carnahan,Jeremiah R. Long",Molly B. Carnahan,Jeremiah R. Long
+2020-Aug,Browser's Notes,Browser's notes,,,

@@ -1,25 +1,25 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2021-May,Review Article,Sclerotic bone lesions caused by non-infectious and non-neoplastic diseases: a review of the imaging and clinicopathologic findings,Vaibhav GulatiMajid ChalianAvneesh Chhabra
-2021-May,Review Article,Diagnostic accuracy of dual-energy CT for detecting bone marrow edema in patients with acute knee injuries: a systematic review and meta-analysis,Mitchell P. WilsonKevin LuiGavin Low
-2021-May,Review Article,Glenoid bony morphology of osteoarthritis prior to shoulder arthroplasty: what the surgeon wants to know and why,Lawrence LoScott KoenigKenneth C. Wang
-2021-May,Scientific Article,Utility of the FABS MRI sequence in the evaluation of distal biceps pathology,Christin A Tiegs-HeidenMatthew A FrickMark S Collins
-2021-May,Scientific Article,"Radiographic imaging, densitometry and disease severity in Autosomal dominant osteopetrosis type 2",Lauren M. LaddErik A. ImelMichael J. Econs
-2021-May,Scientific Article,Safety of bone marrow aspiration and biopsy in severely thrombocytopenic patients,JD StensbyJR LongJW Jennings
-2021-May,Scientific Article,Prevalence of shoulder labral abnormalities on MRI in a non-athletic asymptomatic young adult population,Ruikang LiuCayce OnksAman Dhawan
-2021-May,Scientific Article,Assessment of validity and reliability of femoral shaft-patellar tendon angle measured on MRI,Himanshu GuptaHimanshu KatariaVineet Jain
-2021-May,Scientific Article,Ultrasound of the distal biceps brachii tendon using four approaches: reproducibility and reader preference,Theodore T. MillerGabrielle P. KoninGregory R. Saboeiro
-2021-May,Scientific Article,The Stieda fracture revisited,Kathryn J. StevensOmar M. AlbtoushAmelie M. Lutz
-2021-May,Scientific Article,Low-dose CT with metal artifact reduction in arthroplasty imaging: a cadaveric and clinical study,Naveen SubhasBong J. JunJoseph P. Iannotti
-2021-May,Scientific Article,Ultrasound-guided versus blind interventions in patellar tendon lesions: a cadaveric study,Ferran AbatHakan AlfredsonAlfonso Rodriguez-Baeza
-2021-May,Scientific Article,Characteristic heterotopic ossification of the proximal humerus after total shoulder arthroplasty,Erik OlsenDonald EndrizziSteven Farraher
-2021-May,Scientific Article,"MRI following medial patellofemoral ligament reconstruction: assessment of imaging features found with post-operative pain, arthritis, and graft failure",Tony T. WongJohn DenningCharles A. Popkin
-2021-May,Scientific Article,Comparison of T1-weighted turbo spin echo and out-of-phase T1-weighted gradient echo Dixon MRI for the assessment of intra-medullary length of appendicular bone tumours,A. SaifuddinR. SantiagoI. Pressney
-2021-May,Technical Report,Metal artifacts of hip arthroplasty implants at 1.5-T and 3.0-T: a closer look into the B1 effects,Iman KhodarahmiJohn KirschJan Fritz
-2021-May,Test Yourself: Question,Exertional pain in the thigh: test yourself question and answer,N. WinnF. AmaryK. Shepherd
-2021-May,Case Report,A rare cause of foot pain in an adolescent due to os paracuneiforme: a case report and review of the literature,Yusuf Alper KatiOzkan KoseLevent Sarikcioglu
-2021-May,Case Report,A rare presentation of primary lymphoma of bone with aneurysmal bone cyst-like changes,L. G. ShyamasundarMadhavi KandagaddalaThomas Palocaren
-2021-May,Case Report,Multimodal imaging of composite carbon fiber–based implants for orthopedic spinal fixation,Francis T DelaneyHazel DentonEoin C Kavanagh
-2021-May,Test Yourself: Answer,Exertional pain in the thigh: test yourself question and answer,N. WinnF. AmaryK. Shepherd
-2021-May,Obituary,Harry K. Genant 1942–2021,Don Resnick
-2021-May,Browser's Notes,Browser's Notes,
-2021-May,Abstracts,"Annual Meeting Abstracts of the German Society of Skeletal Radiology (DGMSR) 2021, April 23 – 24, Berlin/ Germany",
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2021-May,Review Article,Sclerotic bone lesions caused by non-infectious and non-neoplastic diseases: a review of the imaging and clinicopathologic findings,"Vaibhav Gulati,Majid Chalian,Avneesh Chhabra",Vaibhav Gulati,Avneesh Chhabra
+2021-May,Review Article,Diagnostic accuracy of dual-energy CT for detecting bone marrow edema in patients with acute knee injuries: a systematic review and meta-analysis,"Mitchell P. Wilson,Kevin Lui,Gavin Low",Mitchell P. Wilson,Gavin Low
+2021-May,Review Article,Glenoid bony morphology of osteoarthritis prior to shoulder arthroplasty: what the surgeon wants to know and why,"Lawrence Lo,Scott Koenig,Kenneth C. Wang",Lawrence Lo,Kenneth C. Wang
+2021-May,Scientific Article,Utility of the FABS MRI sequence in the evaluation of distal biceps pathology,"Christin A Tiegs-Heiden,Matthew A Frick,Mark S Collins",Christin A Tiegs-Heiden,Mark S Collins
+2021-May,Scientific Article,"Radiographic imaging, densitometry and disease severity in Autosomal dominant osteopetrosis type 2","Lauren M. Ladd,Erik A. Imel,Michael J. Econs",Lauren M. Ladd,Michael J. Econs
+2021-May,Scientific Article,Safety of bone marrow aspiration and biopsy in severely thrombocytopenic patients,"JD Stensby,JR Long,JW Jennings",JD Stensby,JW Jennings
+2021-May,Scientific Article,Prevalence of shoulder labral abnormalities on MRI in a non-athletic asymptomatic young adult population,"Ruikang Liu,Cayce Onks,Aman Dhawan",Ruikang Liu,Aman Dhawan
+2021-May,Scientific Article,Assessment of validity and reliability of femoral shaft-patellar tendon angle measured on MRI,"Himanshu Gupta,Himanshu Kataria,Vineet Jain",Himanshu Gupta,Vineet Jain
+2021-May,Scientific Article,Ultrasound of the distal biceps brachii tendon using four approaches: reproducibility and reader preference,"Theodore T. Miller,Gabrielle P. Konin,Gregory R. Saboeiro",Theodore T. Miller,Gregory R. Saboeiro
+2021-May,Scientific Article,The Stieda fracture revisited,"Kathryn J. Stevens,Omar M. Albtoush,Amelie M. Lutz",Kathryn J. Stevens,Amelie M. Lutz
+2021-May,Scientific Article,Low-dose CT with metal artifact reduction in arthroplasty imaging: a cadaveric and clinical study,"Naveen Subhas,Bong J. Jun,Joseph P. Iannotti",Naveen Subhas,Joseph P. Iannotti
+2021-May,Scientific Article,Ultrasound-guided versus blind interventions in patellar tendon lesions: a cadaveric study,"Ferran Abat,Hakan Alfredson,Alfonso Rodriguez-Baeza",Ferran Abat,Alfonso Rodriguez-Baeza
+2021-May,Scientific Article,Characteristic heterotopic ossification of the proximal humerus after total shoulder arthroplasty,"Erik Olsen,Donald Endrizzi,Steven Farraher",Erik Olsen,Steven Farraher
+2021-May,Scientific Article,"MRI following medial patellofemoral ligament reconstruction: assessment of imaging features found with post-operative pain, arthritis, and graft failure","Tony T. Wong,John Denning,Charles A. Popkin",Tony T. Wong,Charles A. Popkin
+2021-May,Scientific Article,Comparison of T1-weighted turbo spin echo and out-of-phase T1-weighted gradient echo Dixon MRI for the assessment of intra-medullary length of appendicular bone tumours,"A. Saifuddin,R. Santiago,I. Pressney",A. Saifuddin,I. Pressney
+2021-May,Technical Report,Metal artifacts of hip arthroplasty implants at 1.5-T and 3.0-T: a closer look into the B1 effects,"Iman Khodarahmi,John Kirsch,Jan Fritz",Iman Khodarahmi,Jan Fritz
+2021-May,Test Yourself: Question,Exertional pain in the thigh: test yourself question and answer,"N. Winn,F. Amary,K. Shepherd",N. Winn,K. Shepherd
+2021-May,Case Report,A rare cause of foot pain in an adolescent due to os paracuneiforme: a case report and review of the literature,"Yusuf Alper Kati,Ozkan Kose,Levent Sarikcioglu",Yusuf Alper Kati,Levent Sarikcioglu
+2021-May,Case Report,A rare presentation of primary lymphoma of bone with aneurysmal bone cyst-like changes,"L. G. Shyamasundar,Madhavi Kandagaddala,Thomas Palocaren",L. G. Shyamasundar,Thomas Palocaren
+2021-May,Case Report,Multimodal imaging of composite carbon fiber–based implants for orthopedic spinal fixation,"Francis T Delaney,Hazel Denton,Eoin C Kavanagh",Francis T Delaney,Eoin C Kavanagh
+2021-May,Test Yourself: Answer,Exertional pain in the thigh: test yourself question and answer,"N. Winn,F. Amary,K. Shepherd",N. Winn,K. Shepherd
+2021-May,Obituary,Harry K. Genant 1942–2021,Don Resnick,Don Resnick,Don Resnick
+2021-May,Browser's Notes,Browser's Notes,,,
+2021-May,Abstracts,"Annual Meeting Abstracts of the German Society of Skeletal Radiology (DGMSR) 2021, April 23 – 24, Berlin/ Germany",,,

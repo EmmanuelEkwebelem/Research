@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2019-Dec,Review Article,Clinical utility of virtual noncalcium dual-energy CT in imaging of the pelvis and hip,Francis I. BaffourKatrina N. GlazebrookCynthia H. McCollough
-2019-Dec,Review Article,Imaging of the post-operative medial elbow in the overhead thrower: common and abnormal findings after ulnar collateral ligament reconstruction and ulnar nerve transposition,Steven P. DanielsDouglas N. MintzDarryl B. Sneag
-2019-Dec,Review Article,The Dixon technique for MRI of the bone marrow,Niels van VuchtRodney SantiagoAsif Saifuddin
-2019-Dec,Review Article,Calcified or ossified benign soft tissue lesions that may simulate malignancy,Robert M. KweeThomas C. Kwee
-2019-Dec,Scientific Article,Radiographic signs of hook of hamate fracture: evaluation of diagnostic utility,Jayden SpencerSuzanne L. HuntBrian Everist
-2019-Dec,Scientific Article,A new radiographic view of the scaphotrapeziotrapezoid joint—a cadaveric study,Arthur TurowJoideep PhadnisGregory I. Bain
-2019-Dec,Scientific Article,Is fat suppression in T1 and T2 FSE with mDixon superior to the frequency selection-based SPAIR technique in musculoskeletal tumor imaging?,Willemijn H. F. HuijgenCatherina S. P. van RijswijkJohan L. Bloem
-2019-Dec,Scientific Article,"Comparison of PSMA-PET/CT, choline-PET/CT, NaF-PET/CT, MRI, and bone scintigraphy in the diagnosis of bone metastases in patients with prostate cancer: a systematic review and meta-analysis",Jing ZhouZhengxing GouYigang Zhao
-2019-Dec,Scientific Article,Change in MRI findings of medial collateral ligament injury in adolescent baseball players with no clinical symptoms over time,Takeshi MakiharaYoshikazu OkamotoMasashi Yamazaki
-2019-Dec,Scientific Article,Imaging evaluation of polyethylene liner dissociation in total hip arthroplasty,Yoshimi EndoChristian GeannetteWilliam T. Chang
-2019-Dec,Scientific Article,Ultrasound localization of lacerated flexor tendon ends in the hand: a cadaveric study,David A. AlvarezDavid H. BallardAlberto A. Simoncini
-2019-Dec,Correction,Correction to: Ultrasound localization of lacerated flexor tendon ends in the hand: a cadaveric study,David A. AlvarezDavid H. BallardAlberto A. Simoncini
-2019-Dec,Scientific Article,Longitudinal MRI structural findings observed in accelerated knee osteoarthritis: data from the Osteoarthritis Initiative,Sarah C. ForemanJan NeumannThomas M. Link
-2019-Dec,Scientific Article,"Subchondral insufficiency fracture of the knee: grading, risk factors, and outcome",Samia SayyidYara YounanFelix M. Gonzalez
-2019-Dec,Scientific Article,Reduction of unnecessary repeat knee radiographs during osteoarthrosis follow-up visits in a large teaching medical center,Oganes AshikyanD. C. BullerA. Chhabra
-2019-Dec,Scientific Article,Dual-layer spectral computerized tomography for metal artifact reduction: small versus large orthopedic devices,Christos KosmasMojgan HojjatiPrabhakar Rajiah
-2019-Dec,Scientific Article,Incidence and implications of fracture in core muscle injury,Joseph A. DelicAndrew B. RossKaitlin Woo
-2019-Dec,Technical Report,Motion compensation in extremity cone-beam computed tomography,Alejandro SisniegaGaurav K. ThawaitWojciech Zbijewski
-2019-Dec,Case Report,Camptodactyly resulting from anatomical variation of lumbrical muscles: imaging findings,Alexander FavrilFilip VanhoenackerTjeerd Jager
-2019-Dec,Case Report,Intra-articular extra-axial chordoma of the wrist: a case report with review of the current literature,Jan NeumannAlexandra S. GersingKlaus Woertler
-2019-Dec,Case Report,Spinal blastomycosis: unusual musculoskeletal presentation with literature review,Seyed EmamianMichael G. FoxNicholas C. Nacey
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2019-Dec,Review Article,Clinical utility of virtual noncalcium dual-energy CT in imaging of the pelvis and hip,"Francis I. Baffour,Katrina N. Glazebrook,Cynthia H. Mc,Collough",Francis I. Baffour,Collough
+2019-Dec,Review Article,Imaging of the post-operative medial elbow in the overhead thrower: common and abnormal findings after ulnar collateral ligament reconstruction and ulnar nerve transposition,"Steven P. Daniels,Douglas N. Mintz,Darryl B. Sneag",Steven P. Daniels,Darryl B. Sneag
+2019-Dec,Review Article,The Dixon technique for MRI of the bone marrow,"Niels van Vucht,Rodney Santiago,Asif Saifuddin",Niels van Vucht,Asif Saifuddin
+2019-Dec,Review Article,Calcified or ossified benign soft tissue lesions that may simulate malignancy,"Robert M. Kwee,Thomas C. Kwee",Robert M. Kwee,Thomas C. Kwee
+2019-Dec,Scientific Article,Radiographic signs of hook of hamate fracture: evaluation of diagnostic utility,"Jayden Spencer,Suzanne L. Hunt,Brian Everist",Jayden Spencer,Brian Everist
+2019-Dec,Scientific Article,A new radiographic view of the scaphotrapeziotrapezoid joint—a cadaveric study,"Arthur Turow,Joideep Phadnis,Gregory I. Bain",Arthur Turow,Gregory I. Bain
+2019-Dec,Scientific Article,Is fat suppression in T1 and T2 FSE with mDixon superior to the frequency selection-based SPAIR technique in musculoskeletal tumor imaging?,"Willemijn H. F. Huijgen,Catherina S. P. van Rijswijk,Johan L. Bloem",Willemijn H. F. Huijgen,Johan L. Bloem
+2019-Dec,Scientific Article,"Comparison of PSMA-PET/CT, choline-PET/CT, NaF-PET/CT, MRI, and bone scintigraphy in the diagnosis of bone metastases in patients with prostate cancer: a systematic review and meta-analysis","Jing Zhou,Zhengxing Gou,Yigang Zhao",Jing Zhou,Yigang Zhao
+2019-Dec,Scientific Article,Change in MRI findings of medial collateral ligament injury in adolescent baseball players with no clinical symptoms over time,"Takeshi Makihara,Yoshikazu Okamoto,Masashi Yamazaki",Takeshi Makihara,Masashi Yamazaki
+2019-Dec,Scientific Article,Imaging evaluation of polyethylene liner dissociation in total hip arthroplasty,"Yoshimi Endo,Christian Geannette,William T. Chang",Yoshimi Endo,William T. Chang
+2019-Dec,Scientific Article,Ultrasound localization of lacerated flexor tendon ends in the hand: a cadaveric study,"David A. Alvarez,David H. Ballard,Alberto A. Simoncini",David A. Alvarez,Alberto A. Simoncini
+2019-Dec,Correction,Correction to: Ultrasound localization of lacerated flexor tendon ends in the hand: a cadaveric study,"David A. Alvarez,David H. Ballard,Alberto A. Simoncini",David A. Alvarez,Alberto A. Simoncini
+2019-Dec,Scientific Article,Longitudinal MRI structural findings observed in accelerated knee osteoarthritis: data from the Osteoarthritis Initiative,"Sarah C. Foreman,Jan Neumann,Thomas M. Link",Sarah C. Foreman,Thomas M. Link
+2019-Dec,Scientific Article,"Subchondral insufficiency fracture of the knee: grading, risk factors, and outcome","Samia Sayyid,Yara Younan,Felix M. Gonzalez",Samia Sayyid,Felix M. Gonzalez
+2019-Dec,Scientific Article,Reduction of unnecessary repeat knee radiographs during osteoarthrosis follow-up visits in a large teaching medical center,"Oganes Ashikyan,D. C. Buller,A. Chhabra",Oganes Ashikyan,A. Chhabra
+2019-Dec,Scientific Article,Dual-layer spectral computerized tomography for metal artifact reduction: small versus large orthopedic devices,"Christos Kosmas,Mojgan Hojjati,Prabhakar Rajiah",Christos Kosmas,Prabhakar Rajiah
+2019-Dec,Scientific Article,Incidence and implications of fracture in core muscle injury,"Joseph A. Delic,Andrew B. Ross,Kaitlin Woo",Joseph A. Delic,Kaitlin Woo
+2019-Dec,Technical Report,Motion compensation in extremity cone-beam computed tomography,"Alejandro Sisniega,Gaurav K. Thawait,Wojciech Zbijewski",Alejandro Sisniega,Wojciech Zbijewski
+2019-Dec,Case Report,Camptodactyly resulting from anatomical variation of lumbrical muscles: imaging findings,"Alexander Favril,Filip Vanhoenacker,Tjeerd Jager",Alexander Favril,Tjeerd Jager
+2019-Dec,Case Report,Intra-articular extra-axial chordoma of the wrist: a case report with review of the current literature,"Jan Neumann,Alexandra S. Gersing,Klaus Woertler",Jan Neumann,Klaus Woertler
+2019-Dec,Case Report,Spinal blastomycosis: unusual musculoskeletal presentation with literature review,"Seyed Emamian,Michael G. Fox,Nicholas C. Nacey",Seyed Emamian,Nicholas C. Nacey

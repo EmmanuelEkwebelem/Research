@@ -1,22 +1,22 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2020-Jun,Review Article,Magnetic resonance imaging of impingement and friction syndromes around the knee,Imran KhanTanweer AshrafAsif Saifuddin
-2020-Jun,Review Article,Magnetic resonance imaging characteristics in patients with histopathologically proven fibrous dysplasia—a systematic review,Anna-Reetta KinnunenReijo SironenPetri Sipola
-2020-Jun,Review Article,"Prosthetic joint infections: diagnosis, management, and complications of the two-stage replacement arthroplasty",Jack PorrinoAnnie WangKimia Kani
-2020-Jun,Scientific Article,Postoperative radiographic observations following transphyseal anterior cruciate ligament reconstruction in skeletally immature patients,Jason B. SmoakAlexander MacfarlaneJohn M. Marzo
-2020-Jun,Scientific Article,"Characterization of soft tissue tumours with ultrasound, shear wave elastography and MRI",N. WinnJ. BaldwinJ. L. Jaremko
-2020-Jun,Scientific Article,Accuracy of ultrasound in the characterization of superficial soft tissue tumors: a prospective study,Esther H. Y. HungJames F. GriffithCina S. L. Tong
-2020-Jun,Scientific Article,Value of multidetector computed tomography for the differentiation of delayed aseptic and septic complications after total hip arthroplasty,Jaime Isern-KebschullXavier TomasAlex Soriano
-2020-Jun,Scientific Article,Incremental value of FDG-PET/CT to monitor treatment response in infectious spondylodiscitis,Elda RighiAlessia CarneluttiMatteo Bassetti
-2020-Jun,Scientific Article,"The sensitivity, specificity, and diagnostic accuracy of whole-bone MRI for identifying skip metastases in appendicular osteosarcoma and Ewing sarcoma",James R BarnettPanagiotis GikasAsif Saifuddin
-2020-Jun,Scientific Article,Efficacy of image-guided synovial biopsy,T. Conor McKeeJeffrey A. BelairWilliam Morrison
-2020-Jun,Scientific Article,Diagnostic utility of perilesional muscle edema in myositis ossificans,Veronika ZublerMalin MühlemannChristian W. Pfirrmann
-2020-Jun,Scientific Article,Image quality of hip MR arthrography with intra-articular injection of hyaluronic acid versus gadolinium-based contrast agent in patients with femoroacetabular impingement,Filippo RandelliElisabetta Antonia NocerinoAlberto Aliprandi
-2020-Jun,Scientific Article,The incidence of skip metastases on whole bone MRI in high-grade bone sarcomas,Asif SaifuddinBan SharifIan Pressney
-2020-Jun,Scientific Article,Radiographic features and complications following coracoclavicular ligament reconstruction,Brian P. KennedyZehava Sadka RosenbergErin F. Alaia
-2020-Jun,Scientific Article,"Intramuscular peripheral nerve sheath tumors: schwannoma, ancient schwannoma, and neurofibroma",Seul Ki LeeJee-Young KimHyang Sook Jeong
-2020-Jun,Scientific Article,Performance of a rapid two-sequence screening protocol for osteomyelitis of the foot,Adam D. SingerMonica UmpierrezRavi R. Rajani
-2020-Jun,Scientific Article,Qualitative and quantitative analysis of glenoid bone stock and glenoid version: inter-reader analysis and correlation with rotator cuff tendinopathy and atrophy in patients with shoulder osteoarthritis,Matthew J. SiebertMajid ChalianAvneesh Chhabra
-2020-Jun,Correction,Correction to: Qualitative and quantitative analysis of glenoid bone stock and glenoid version: inter-reader analysis and correlation with rotator cuff tendinopathy and atrophy in patients with shoulder osteoarthritis,Matthew J. SiebertMajid ChalianAvneesh Chhabra
-2020-Jun,Scientific Article,Qualitative evaluation of MRI features of lipoma and atypical lipomatous tumor: results from a multicenter study,Lorenzo NardoYasser G AbdelhafezThomas M. Link
-2020-Jun,Scientific Article,Evaluation of baseline fracture risk in younger postmenopausal women with breast cancer using different risk assessment methods,Dagmar Schaffler-SchadenChristoph KneidingerChristian Pirich
-2020-Jun,Browser's Notes,Browser’s Notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2020-Jun,Review Article,Magnetic resonance imaging of impingement and friction syndromes around the knee,"Imran Khan,Tanweer Ashraf,Asif Saifuddin",Imran Khan,Asif Saifuddin
+2020-Jun,Review Article,Magnetic resonance imaging characteristics in patients with histopathologically proven fibrous dysplasia—a systematic review,"Anna-Reetta Kinnunen,Reijo Sironen,Petri Sipola",Anna-Reetta Kinnunen,Petri Sipola
+2020-Jun,Review Article,"Prosthetic joint infections: diagnosis, management, and complications of the two-stage replacement arthroplasty","Jack Porrino,Annie Wang,Kimia Kani",Jack Porrino,Kimia Kani
+2020-Jun,Scientific Article,Postoperative radiographic observations following transphyseal anterior cruciate ligament reconstruction in skeletally immature patients,"Jason B. Smoak,Alexander Macfarlane,John M. Marzo",Jason B. Smoak,John M. Marzo
+2020-Jun,Scientific Article,"Characterization of soft tissue tumours with ultrasound, shear wave elastography and MRI","N. Winn,J. Baldwin,J. L. Jaremko",N. Winn,J. L. Jaremko
+2020-Jun,Scientific Article,Accuracy of ultrasound in the characterization of superficial soft tissue tumors: a prospective study,"Esther H. Y. Hung,James F. Griffith,Cina S. L. Tong",Esther H. Y. Hung,Cina S. L. Tong
+2020-Jun,Scientific Article,Value of multidetector computed tomography for the differentiation of delayed aseptic and septic complications after total hip arthroplasty,"Jaime Isern-Kebschull,Xavier Tomas,Alex Soriano",Jaime Isern-Kebschull,Alex Soriano
+2020-Jun,Scientific Article,Incremental value of FDG-PET/CT to monitor treatment response in infectious spondylodiscitis,"Elda Righi,Alessia Carnelutti,Matteo Bassetti",Elda Righi,Matteo Bassetti
+2020-Jun,Scientific Article,"The sensitivity, specificity, and diagnostic accuracy of whole-bone MRI for identifying skip metastases in appendicular osteosarcoma and Ewing sarcoma","James R Barnett,Panagiotis Gikas,Asif Saifuddin",James R Barnett,Asif Saifuddin
+2020-Jun,Scientific Article,Efficacy of image-guided synovial biopsy,"T. Conor Mc,Kee,Jeffrey A. Belair,William Morrison",T. Conor Mc,William Morrison
+2020-Jun,Scientific Article,Diagnostic utility of perilesional muscle edema in myositis ossificans,"Veronika Zubler,Malin Mühlemann,Christian W. Pfirrmann",Veronika Zubler,Christian W. Pfirrmann
+2020-Jun,Scientific Article,Image quality of hip MR arthrography with intra-articular injection of hyaluronic acid versus gadolinium-based contrast agent in patients with femoroacetabular impingement,"Filippo Randelli,Elisabetta Antonia Nocerino,Alberto Aliprandi",Filippo Randelli,Alberto Aliprandi
+2020-Jun,Scientific Article,The incidence of skip metastases on whole bone MRI in high-grade bone sarcomas,"Asif Saifuddin,Ban Sharif,Ian Pressney",Asif Saifuddin,Ian Pressney
+2020-Jun,Scientific Article,Radiographic features and complications following coracoclavicular ligament reconstruction,"Brian P. Kennedy,Zehava Sadka Rosenberg,Erin F. Alaia",Brian P. Kennedy,Erin F. Alaia
+2020-Jun,Scientific Article,"Intramuscular peripheral nerve sheath tumors: schwannoma, ancient schwannoma, and neurofibroma","Seul Ki Lee,Jee-Young Kim,Hyang Sook Jeong",Seul Ki Lee,Hyang Sook Jeong
+2020-Jun,Scientific Article,Performance of a rapid two-sequence screening protocol for osteomyelitis of the foot,"Adam D. Singer,Monica Umpierrez,Ravi R. Rajani",Adam D. Singer,Ravi R. Rajani
+2020-Jun,Scientific Article,Qualitative and quantitative analysis of glenoid bone stock and glenoid version: inter-reader analysis and correlation with rotator cuff tendinopathy and atrophy in patients with shoulder osteoarthritis,"Matthew J. Siebert,Majid Chalian,Avneesh Chhabra",Matthew J. Siebert,Avneesh Chhabra
+2020-Jun,Correction,Correction to: Qualitative and quantitative analysis of glenoid bone stock and glenoid version: inter-reader analysis and correlation with rotator cuff tendinopathy and atrophy in patients with shoulder osteoarthritis,"Matthew J. Siebert,Majid Chalian,Avneesh Chhabra",Matthew J. Siebert,Avneesh Chhabra
+2020-Jun,Scientific Article,Qualitative evaluation of MRI features of lipoma and atypical lipomatous tumor: results from a multicenter study,"Lorenzo Nardo,Yasser G Abdelhafez,Thomas M. Link",Lorenzo Nardo,Thomas M. Link
+2020-Jun,Scientific Article,Evaluation of baseline fracture risk in younger postmenopausal women with breast cancer using different risk assessment methods,"Dagmar Schaffler-Schaden,Christoph Kneidinger,Christian Pirich",Dagmar Schaffler-Schaden,Christian Pirich
+2020-Jun,Browser's Notes,Browser’s Notes,,,

@@ -1,23 +1,23 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2022-Dec,Review Article,Radiographic imaging of carbon fiber implants in the appendicular skeleton in orthopedic oncology,Adam GraeberSina HabibollahiSantiago Lozano-Calderon
-2022-Dec,Review Article,Assessment of the reliability and validity of imaging measurements for patellofemoral instability: an updated systematic review,Liam GeraghtyDavid HumphriesJane Fitzpatrick
-2022-Dec,Perspective,Point-of-care radiology service at the US Open Tennis Championships,Carlos L. BenitezBrian DanielsAlexis C. Colvin
-2022-Dec,Scientific Article,Ankle MRI and preceding radiographs: an evaluation of physician ordering practices,Kristopher de GaDylan NoblettCyrus Bateni
-2022-Dec,Scientific Article,Ensemble deep learning model for predicting anterior cruciate ligament tear from lateral knee radiograph,Dong Hyun KimJee Won ChaiJae Won Choi
-2022-Dec,Scientific Article,3D-MRI versus 3D-CT in the evaluation of glenoid deformity in glenohumeral arthritis using Dixon 3D FLASH sequence,Yoav RosenthalMohammad SamimMandeep S. Virk
-2022-Dec,Scientific Article,Image quality improvement and motion degradation reduction in shoulder MR imaging: comparison of BLADE and rectilinear techniques at 3-Tesla scanning,Ajay KohliDavid T. PilkintonAvneesh Chhabra
-2022-Dec,Scientific Article,Magnetic resonance arthrography in patients with multidirectional instability: could inferior capsulsar width be considered the cornerstone in the diagnosis of non-traumatic shoulder instability?,Angelica CelentanoMarco PortaEugenio Annibale Genovese
-2022-Dec,Scientific Article,"Detailed bone assessment of the sacroiliac joint in a prospective imaging study: comparison between computed tomography, zero echo time, and black bone magnetic resonance imaging",Lucas WolharnRoman GuggenbergerTim Finkenstaedt
-2022-Dec,Test Yourself: Question,Left wrist pain in a teenager,Fatih ErdemBahar YanıkSerdar Sargın
-2022-Dec,Test Yourself: Question,Newborn with abnormality of the clavicle,Roberto FranceschiGiovanna StringariEvelina Maines
-2022-Dec,Test Yourself: Question,"Question: a 36-year-old female with a 10-year history of intermittent numbness and loss of color in the fingers, toes, and nose",Susan HesniCaroline HastonAsif Saifuddin
-2022-Dec,Test Yourself: Question,Test Yourself Question: A 26-year-old female presenting with a 5-month history of insidious onset medial right knee pain,Susan HesniDaniel LindsayAsif Saifuddin
-2022-Dec,Test Yourself: Question,"Test Yourself Question: A left humeral lesion in a 64-year-old patient with previous history of lung cancer, now in remission",Susan HesniDaniel LindsayAsif Saifuddin
-2022-Dec,Case Report,Traumatic rupture of the midportion of the interosseous membrane: a rare cause of acute lower leg pain in two soccer players kicked in the anterior shin,Mark S. CollinsTaylor J. NorthJacob L. Sellon
-2022-Dec,Case Report,A report of an intracortical chondroblastoma of the diaphysis in a skeletally mature patient,Madeline A. SauerPaul StegelmeierAndrea Evenski
-2022-Dec,Test Yourself: Answer,Left wrist pain in a teenager,Fatih ErdemBahar YanıkSerdar Sargın
-2022-Dec,Test Yourself: Answer,Newborn with cleidocranial dysplasia,Roberto FranceschiGiovanna StringariEvelina Maines
-2022-Dec,Test Yourself: Answer,"Test Yourself Answer To Question: a 36-year-old female with a 10-year history of intermittent numbness and loss of color in the fingers, toes, and nose",Susan HesniMrs Caroline HastonAsif Saifuddin
-2022-Dec,Test Yourself: Answer,Test yourself answer to question: a 26-year-old female presenting with a 5-month history of insidious onset medial right knee pain,Susan HesniDaniel LindsayAsif Saifuddin
-2022-Dec,Test Yourself: Answer,"Test yourself answer to question: a left humeral lesion in a 64-year-old patient with previous history of lung cancer, now in remission",Susan HesniDaniel LindsayAsif Saifuddin
-2022-Dec,Abstracts,"AMSIG Victoria, Australia, 2022 Scientific Paper Presentations",
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2022-Dec,Review Article,Radiographic imaging of carbon fiber implants in the appendicular skeleton in orthopedic oncology,"Adam Graeber,Sina Habibollahi,Santiago Lozano-Calderon",Adam Graeber,Santiago Lozano-Calderon
+2022-Dec,Review Article,Assessment of the reliability and validity of imaging measurements for patellofemoral instability: an updated systematic review,"Liam Geraghty,David Humphries,Jane Fitzpatrick",Liam Geraghty,Jane Fitzpatrick
+2022-Dec,Perspective,Point-of-care radiology service at the US Open Tennis Championships,"Carlos L. Benitez,Brian Daniels,Alexis C. Colvin",Carlos L. Benitez,Alexis C. Colvin
+2022-Dec,Scientific Article,Ankle MRI and preceding radiographs: an evaluation of physician ordering practices,"Kristopher de Ga,Dylan Noblett,Cyrus Bateni",Kristopher de Ga,Cyrus Bateni
+2022-Dec,Scientific Article,Ensemble deep learning model for predicting anterior cruciate ligament tear from lateral knee radiograph,"Dong Hyun Kim,Jee Won Chai,Jae Won Choi",Dong Hyun Kim,Jae Won Choi
+2022-Dec,Scientific Article,3D-MRI versus 3D-CT in the evaluation of glenoid deformity in glenohumeral arthritis using Dixon 3D FLASH sequence,"Yoav Rosenthal,Mohammad Samim,Mandeep S. Virk",Yoav Rosenthal,Mandeep S. Virk
+2022-Dec,Scientific Article,Image quality improvement and motion degradation reduction in shoulder MR imaging: comparison of BLADE and rectilinear techniques at 3-Tesla scanning,"Ajay Kohli,David T. Pilkinton,Avneesh Chhabra",Ajay Kohli,Avneesh Chhabra
+2022-Dec,Scientific Article,Magnetic resonance arthrography in patients with multidirectional instability: could inferior capsulsar width be considered the cornerstone in the diagnosis of non-traumatic shoulder instability?,"Angelica Celentano,Marco Porta,Eugenio Annibale Genovese",Angelica Celentano,Eugenio Annibale Genovese
+2022-Dec,Scientific Article,"Detailed bone assessment of the sacroiliac joint in a prospective imaging study: comparison between computed tomography, zero echo time, and black bone magnetic resonance imaging","Lucas Wolharn,Roman Guggenberger,Tim Finkenstaedt",Lucas Wolharn,Tim Finkenstaedt
+2022-Dec,Test Yourself: Question,Left wrist pain in a teenager,"Fatih Erdem,Bahar Yanık,Serdar Sargın",Fatih Erdem,Serdar Sargın
+2022-Dec,Test Yourself: Question,Newborn with abnormality of the clavicle,"Roberto Franceschi,Giovanna Stringari,Evelina Maines",Roberto Franceschi,Evelina Maines
+2022-Dec,Test Yourself: Question,"Question: a 36-year-old female with a 10-year history of intermittent numbness and loss of color in the fingers, toes, and nose","Susan Hesni,Caroline Haston,Asif Saifuddin",Susan Hesni,Asif Saifuddin
+2022-Dec,Test Yourself: Question,Test Yourself Question: A 26-year-old female presenting with a 5-month history of insidious onset medial right knee pain,"Susan Hesni,Daniel Lindsay,Asif Saifuddin",Susan Hesni,Asif Saifuddin
+2022-Dec,Test Yourself: Question,"Test Yourself Question: A left humeral lesion in a 64-year-old patient with previous history of lung cancer, now in remission","Susan Hesni,Daniel Lindsay,Asif Saifuddin",Susan Hesni,Asif Saifuddin
+2022-Dec,Case Report,Traumatic rupture of the midportion of the interosseous membrane: a rare cause of acute lower leg pain in two soccer players kicked in the anterior shin,"Mark S. Collins,Taylor J. North,Jacob L. Sellon",Mark S. Collins,Jacob L. Sellon
+2022-Dec,Case Report,A report of an intracortical chondroblastoma of the diaphysis in a skeletally mature patient,"Madeline A. Sauer,Paul Stegelmeier,Andrea Evenski",Madeline A. Sauer,Andrea Evenski
+2022-Dec,Test Yourself: Answer,Left wrist pain in a teenager,"Fatih Erdem,Bahar Yanık,Serdar Sargın",Fatih Erdem,Serdar Sargın
+2022-Dec,Test Yourself: Answer,Newborn with cleidocranial dysplasia,"Roberto Franceschi,Giovanna Stringari,Evelina Maines",Roberto Franceschi,Evelina Maines
+2022-Dec,Test Yourself: Answer,"Test Yourself Answer To Question: a 36-year-old female with a 10-year history of intermittent numbness and loss of color in the fingers, toes, and nose","Susan Hesni,Mrs Caroline Haston,Asif Saifuddin",Susan Hesni,Asif Saifuddin
+2022-Dec,Test Yourself: Answer,Test yourself answer to question: a 26-year-old female presenting with a 5-month history of insidious onset medial right knee pain,"Susan Hesni,Daniel Lindsay,Asif Saifuddin",Susan Hesni,Asif Saifuddin
+2022-Dec,Test Yourself: Answer,"Test yourself answer to question: a left humeral lesion in a 64-year-old patient with previous history of lung cancer, now in remission","Susan Hesni,Daniel Lindsay,Asif Saifuddin",Susan Hesni,Asif Saifuddin
+2022-Dec,Abstracts,"AMSIG Victoria, Australia, 2022 Scientific Paper Presentations",,,

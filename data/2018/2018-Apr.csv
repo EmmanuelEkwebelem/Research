@@ -1,24 +1,24 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2018-Apr,ACKNOWLEDGEMENT TO REFEREES,Thank you to our reviewers of 2017,Maud CrezeAntoine NordezMarie-France Bellin
-2018-Apr,Review Article,"Shear wave sonoelastography of skeletal muscle: basic principles, biomechanical concepts, clinical applications, and future perspectives",David KnippF. Joseph SimeoneConnie Y. Chang
-2018-Apr,Scientific Article,"Percutaneous CT-guided sacroiliac joint sampling for infection: aspiration, biopsy, and technique",David HakimianAmal KhouryYoram A. Weil
-2018-Apr,Scientific Article,Radiographic markers for measuring tibial rotation based on CT-reconstructed radiographs: an accuracy and feasibility study,Sun Hwa LeeSeong Jong YunYong Sung Park
-2018-Apr,Scientific Article,Diagnostic accuracy of low-dose versus ultra-low-dose CT for lumbar disc disease and facet joint osteoarthritis in patients with low back pain with MRI correlation,Ramin MandegaranSam GidwaniAli Zavareh
-2018-Apr,Scientific Article,Concomitant hook of hamate fractures in patients with scaphoid fracture: more common than you might think,Kilian RuecklFriedrich BoettnerPeter Sculco
-2018-Apr,Scientific Article,The posterior–anterior flexed view is better than the anterior–posterior view for assessing osteoarthritis of the knee,Javier de la FuenteMarc BlasiCarles Pedret
-2018-Apr,Scientific Article,Ultrasound classification of traumatic distal biceps brachii tendon injuries,Young Hwan ParkMin A. YoonHak Jun Kim
-2018-Apr,Scientific Article,The predictive value of MRI in the syndesmotic instability of ankle fracture,S. CormicanN. AdamsD. de Freitas
-2018-Apr,Correction,Correction to: Voriconazole-induced periostitis deformans: serial imaging in a patient with ANCA vasculitis,Amar UdareSanjay DesaiSujit Joshi
-2018-Apr,Test Yourself: Question,Middle-aged female with palpable swelling over the abdominal wall,Wai Keung LoCheuk Kei Kathy WongChi Hin Chan
-2018-Apr,Test Yourself: Question,A child with painless left wrist swelling,Ali Kord ValeshabadDallas De La VaraKaren L. Xie
-2018-Apr,Case Report,Lipoma arborescens of the bicipitoradial bursa,Ozkan KoseHasan MayMelih Unal
-2018-Apr,Case Report,Symptomatic os talus secundarius: a case report and review of the literature,Y. J. BerkowitzS. J. GreenwoodV. N. Cassar-Pullicino
-2018-Apr,Case Report,Complete resolution and remodeling of chronic recurrent multifocal osteomyelitis on MRI and radiographs,Cyprian OlchowyMatías de Albert de Delás-VigoRosa Dominguez Oronoz
-2018-Apr,Case Report,Triple elastofibromas located in the supra- and infrascapular regions—a case report,Shuko NomuraNoriko KuriharaJunko Sakurada
-2018-Apr,Case Report,Gastric cancer metastatic to neck lipoma: a case report with imaging consideration,Shinji TsukamotoDaniel VanelCostantino Errani
-2018-Apr,Case Report,Parosteal extra-axial chordoma of the second metacarpal bone: a case report with literature review,Pauline Gonzalez-EspinoMaïté Van CauterFrederic E. Lecouvet
-2018-Apr,Case Report,"Uncommon observation of bifocal giant subchondral cysts in the hip: diagnostic role of CT arthrography and MRI, with pathological correlation",Shuo LiJeffrey J. BrooksGreg B. Marrinan
-2018-Apr,Case Report,Not all sagittal band tears come with extensor instability: a case report with radiological and operative correlation,Amar UdareSanjay DesaiSujit Joshi
-2018-Apr,Test Yourself: Answer,Middle-aged female with palpable swelling over the abdominalwall,Wai Keung LoCheuk Kei Kathy WongChi Hin Chan
-2018-Apr,Test Yourself: Answer,A child with painless left wrist swelling,
-2018-Apr,Browser's Notes,Browser’s notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2018-Apr,ACKNOWLEDGEMENT TO REFEREES,Thank you to our reviewers of 2017,"Maud Creze,Antoine Nordez,Marie-France Bellin",Maud Creze,Marie-France Bellin
+2018-Apr,Review Article,"Shear wave sonoelastography of skeletal muscle: basic principles, biomechanical concepts, clinical applications, and future perspectives","David Knipp,F. Joseph Simeone,Connie Y. Chang",David Knipp,Connie Y. Chang
+2018-Apr,Scientific Article,"Percutaneous CT-guided sacroiliac joint sampling for infection: aspiration, biopsy, and technique","David Hakimian,Amal Khoury,Yoram A. Weil",David Hakimian,Yoram A. Weil
+2018-Apr,Scientific Article,Radiographic markers for measuring tibial rotation based on CT-reconstructed radiographs: an accuracy and feasibility study,"Sun Hwa Lee,Seong Jong Yun,Yong Sung Park",Sun Hwa Lee,Yong Sung Park
+2018-Apr,Scientific Article,Diagnostic accuracy of low-dose versus ultra-low-dose CT for lumbar disc disease and facet joint osteoarthritis in patients with low back pain with MRI correlation,"Ramin Mandegaran,Sam Gidwani,Ali Zavareh",Ramin Mandegaran,Ali Zavareh
+2018-Apr,Scientific Article,Concomitant hook of hamate fractures in patients with scaphoid fracture: more common than you might think,"Kilian Rueckl,Friedrich Boettner,Peter Sculco",Kilian Rueckl,Peter Sculco
+2018-Apr,Scientific Article,The posterior–anterior flexed view is better than the anterior–posterior view for assessing osteoarthritis of the knee,"Javier de la Fuente,Marc Blasi,Carles Pedret",Javier de la Fuente,Carles Pedret
+2018-Apr,Scientific Article,Ultrasound classification of traumatic distal biceps brachii tendon injuries,"Young Hwan Park,Min A. Yoon,Hak Jun Kim",Young Hwan Park,Hak Jun Kim
+2018-Apr,Scientific Article,The predictive value of MRI in the syndesmotic instability of ankle fracture,"S. Cormican,N. Adams,D. de Freitas",S. Cormican,D. de Freitas
+2018-Apr,Correction,Correction to: Voriconazole-induced periostitis deformans: serial imaging in a patient with ANCA vasculitis,"Amar Udare,Sanjay Desai,Sujit Joshi",Amar Udare,Sujit Joshi
+2018-Apr,Test Yourself: Question,Middle-aged female with palpable swelling over the abdominal wall,"Wai Keung Lo,Cheuk Kei Kathy Wong,Chi Hin Chan",Wai Keung Lo,Chi Hin Chan
+2018-Apr,Test Yourself: Question,A child with painless left wrist swelling,"Ali Kord Valeshabad,Dallas De La Vara,Karen L. Xie",Ali Kord Valeshabad,Karen L. Xie
+2018-Apr,Case Report,Lipoma arborescens of the bicipitoradial bursa,"Ozkan Kose,Hasan May,Melih Unal",Ozkan Kose,Melih Unal
+2018-Apr,Case Report,Symptomatic os talus secundarius: a case report and review of the literature,"Y. J. Berkowitz,S. J. Greenwood,V. N. Cassar-Pullicino",Y. J. Berkowitz,V. N. Cassar-Pullicino
+2018-Apr,Case Report,Complete resolution and remodeling of chronic recurrent multifocal osteomyelitis on MRI and radiographs,"Cyprian Olchowy,Matías de Albert de Delás-Vigo,Rosa Dominguez Oronoz",Cyprian Olchowy,Rosa Dominguez Oronoz
+2018-Apr,Case Report,Triple elastofibromas located in the supra- and infrascapular regions—a case report,"Shuko Nomura,Noriko Kurihara,Junko Sakurada",Shuko Nomura,Junko Sakurada
+2018-Apr,Case Report,Gastric cancer metastatic to neck lipoma: a case report with imaging consideration,"Shinji Tsukamoto,Daniel Vanel,Costantino Errani",Shinji Tsukamoto,Costantino Errani
+2018-Apr,Case Report,Parosteal extra-axial chordoma of the second metacarpal bone: a case report with literature review,"Pauline Gonzalez-Espino,Maïté Van Cauter,Frederic E. Lecouvet",Pauline Gonzalez-Espino,Frederic E. Lecouvet
+2018-Apr,Case Report,"Uncommon observation of bifocal giant subchondral cysts in the hip: diagnostic role of CT arthrography and MRI, with pathological correlation","Shuo Li,Jeffrey J. Brooks,Greg B. Marrinan",Shuo Li,Greg B. Marrinan
+2018-Apr,Case Report,Not all sagittal band tears come with extensor instability: a case report with radiological and operative correlation,"Amar Udare,Sanjay Desai,Sujit Joshi",Amar Udare,Sujit Joshi
+2018-Apr,Test Yourself: Answer,Middle-aged female with palpable swelling over the abdominalwall,"Wai Keung Lo,Cheuk Kei Kathy Wong,Chi Hin Chan",Wai Keung Lo,Chi Hin Chan
+2018-Apr,Test Yourself: Answer,A child with painless left wrist swelling,,,
+2018-Apr,Browser's Notes,Browser’s notes,,,

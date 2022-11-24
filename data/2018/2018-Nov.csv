@@ -1,20 +1,20 @@
-Date,Article Class,Article Titles,List of Article Author Names
-2018-Nov,Scientific Article,Evaluation of articular cartilage following rotational acetabular osteotomy for hip dysplasia using T2 mapping MRI,Takeshi ShojiTakuma YamasakiNobuo Adachi
-2018-Nov,Scientific Article,MR arthrogram of the postoperative glenoid labrum: normal postoperative appearance versus recurrent tears,Christin A. Tiegs-HeidenNicholas G. RhodesBenjamin M. Howe
-2018-Nov,Scientific Article,Ultrasound-guided steroid injection for the treatment of de Quervain’s disease: an anatomy-based approach,Jong-Hyun BingSoo-Jung ChoiDong-Rock Shin
-2018-Nov,Scientific Article,Ultrasound measurements of axillary recess capsule thickness in unilateral frozen shoulder: study of correlation with MRI measurements,Du Hwan KimChul-Hyun ChoDuk Hyun Sung
-2018-Nov,Scientific Article,Non-union rate of type II and III odontoid fractures in CPPD versus a control population,Aaron WoldJonelle Petscavage-ThomasEric A. Walker
-2018-Nov,Scientific Article,Narrowing of ischiofemoral and quadratus femoris spaces in pediatric ischiofemoral impingement,Shlomit Goldberg-SteinAvi FriedmanBenjamin Taragin
-2018-Nov,Scientific Article,Sonographic sequential change of the anteroinferior labrum following arthroscopic Bankart repair: quantitative and qualitative assessment,Masaki FukuyoshiTetsuya TakenagaKatsumasa Sugimoto
-2018-Nov,Scientific Article,Surveillance MRI for the detection of locally recurrent Ewing sarcoma seems futile,Ömer KasalakAmelie DammannThomas C. Kwee
-2018-Nov,Scientific Article,"Acute posterior cruciate ligament injuries: effect of location, severity, and associated injuries on surgical management",Mark A. AndersonF. Joseph SimeoneConnie Y. Chang
-2018-Nov,Scientific Article,Three-material decomposition with dual-layer spectral CT compared to MRI for the detection of bone marrow edema in patients with acute vertebral fractures,Benedikt J. SchwaigerAlexandra S. GersingPeter B. Noël
-2018-Nov,Scientific Article,"Effects of post-fracture non-weight-bearing immobilization on muscle atrophy, intramuscular and intermuscular adipose tissues in the thigh and calf",Akito YoshikoKoun YamauchiHiroshi Akima
-2018-Nov,TEST YOURSELF: QUESTION,Acute right ankle pain in a 9-year-old boy without history of trauma,V. AppiahG. BoitsiosP. Simoni
-2018-Nov,Case Report,Pacinian corpuscles: an explanation for subcutaneous palmar nodules routinely encountered on MR examinations,Nicholas G RhodesNaveen S. MurthyDavid A. Rubin
-2018-Nov,Case Report,Metachronous multicentric giant cell tumour of bone,Navatha VangalaShantveer G. UppinP. Chandrasekhar
-2018-Nov,Case Report,"The lucent (CT) and enhancing (MR) rim, a sign of Paget’s disease of the skull: case report",Myriame Bou AntounSalim KemelJean-Denis Laredo
-2018-Nov,Case Report,Fibrous dysplasia: an unusual case of a very aggressive form with costo-vertebral joint destruction and invasion of the contralateral D7 vertebral body,Carmine ZoccaliDario AttalaVirginia Ferraresi
-2018-Nov,Case Report,Widespread and debilitating hemangiomas in a patient with enchondromatosis and D-2-hydroxyglutaric aciduria,Patra YeetongTeerasak PhewplungVorasuk Shotelersuk
-2018-Nov,Test Yourself: Answer,Acute right ankle pain in a 9-year-old boy without history of trauma,V. AppiahG. BoitsiosPaolo Simoni
-2018-Nov,Browser's Notes,Browser’s notes,
+Date,Article Class,Article Titles,List of Article Author Names,First Author,Last Author
+2018-Nov,Scientific Article,Evaluation of articular cartilage following rotational acetabular osteotomy for hip dysplasia using T2 mapping MRI,"Takeshi Shoji,Takuma Yamasaki,Nobuo Adachi",Takeshi Shoji,Nobuo Adachi
+2018-Nov,Scientific Article,MR arthrogram of the postoperative glenoid labrum: normal postoperative appearance versus recurrent tears,"Christin A. Tiegs-Heiden,Nicholas G. Rhodes,Benjamin M. Howe",Christin A. Tiegs-Heiden,Benjamin M. Howe
+2018-Nov,Scientific Article,Ultrasound-guided steroid injection for the treatment of de Quervain’s disease: an anatomy-based approach,"Jong-Hyun Bing,Soo-Jung Choi,Dong-Rock Shin",Jong-Hyun Bing,Dong-Rock Shin
+2018-Nov,Scientific Article,Ultrasound measurements of axillary recess capsule thickness in unilateral frozen shoulder: study of correlation with MRI measurements,"Du Hwan Kim,Chul-Hyun Cho,Duk Hyun Sung",Du Hwan Kim,Duk Hyun Sung
+2018-Nov,Scientific Article,Non-union rate of type II and III odontoid fractures in CPPD versus a control population,"Aaron Wold,Jonelle Petscavage-Thomas,Eric A. Walker",Aaron Wold,Eric A. Walker
+2018-Nov,Scientific Article,Narrowing of ischiofemoral and quadratus femoris spaces in pediatric ischiofemoral impingement,"Shlomit Goldberg-Stein,Avi Friedman,Benjamin Taragin",Shlomit Goldberg-Stein,Benjamin Taragin
+2018-Nov,Scientific Article,Sonographic sequential change of the anteroinferior labrum following arthroscopic Bankart repair: quantitative and qualitative assessment,"Masaki Fukuyoshi,Tetsuya Takenaga,Katsumasa Sugimoto",Masaki Fukuyoshi,Katsumasa Sugimoto
+2018-Nov,Scientific Article,Surveillance MRI for the detection of locally recurrent Ewing sarcoma seems futile,"Ömer Kasalak,Amelie Dammann,Thomas C. Kwee",Ömer Kasalak,Thomas C. Kwee
+2018-Nov,Scientific Article,"Acute posterior cruciate ligament injuries: effect of location, severity, and associated injuries on surgical management","Mark A. Anderson,F. Joseph Simeone,Connie Y. Chang",Mark A. Anderson,Connie Y. Chang
+2018-Nov,Scientific Article,Three-material decomposition with dual-layer spectral CT compared to MRI for the detection of bone marrow edema in patients with acute vertebral fractures,"Benedikt J. Schwaiger,Alexandra S. Gersing,Peter B. Noël",Benedikt J. Schwaiger,Peter B. Noël
+2018-Nov,Scientific Article,"Effects of post-fracture non-weight-bearing immobilization on muscle atrophy, intramuscular and intermuscular adipose tissues in the thigh and calf","Akito Yoshiko,Koun Yamauchi,Hiroshi Akima",Akito Yoshiko,Hiroshi Akima
+2018-Nov,TEST YOURSELF: QUESTION,Acute right ankle pain in a 9-year-old boy without history of trauma,"V. Appiah,G. Boitsios,P. Simoni",V. Appiah,P. Simoni
+2018-Nov,Case Report,Pacinian corpuscles: an explanation for subcutaneous palmar nodules routinely encountered on MR examinations,"Nicholas G Rhodes,Naveen S. Murthy,David A. Rubin",Nicholas G Rhodes,David A. Rubin
+2018-Nov,Case Report,Metachronous multicentric giant cell tumour of bone,"Navatha Vangala,Shantveer G. Uppin,P. Chandrasekhar",Navatha Vangala,P. Chandrasekhar
+2018-Nov,Case Report,"The lucent (CT) and enhancing (MR) rim, a sign of Paget’s disease of the skull: case report","Myriame Bou Antoun,Salim Kemel,Jean-Denis Laredo",Myriame Bou Antoun,Jean-Denis Laredo
+2018-Nov,Case Report,Fibrous dysplasia: an unusual case of a very aggressive form with costo-vertebral joint destruction and invasion of the contralateral D7 vertebral body,"Carmine Zoccali,Dario Attala,Virginia Ferraresi",Carmine Zoccali,Virginia Ferraresi
+2018-Nov,Case Report,Widespread and debilitating hemangiomas in a patient with enchondromatosis and D-2-hydroxyglutaric aciduria,"Patra Yeetong,Teerasak Phewplung,Vorasuk Shotelersuk",Patra Yeetong,Vorasuk Shotelersuk
+2018-Nov,Test Yourself: Answer,Acute right ankle pain in a 9-year-old boy without history of trauma,"V. Appiah,G. Boitsios,Paolo Simoni",V. Appiah,Paolo Simoni
+2018-Nov,Browser's Notes,Browser’s notes,,,
